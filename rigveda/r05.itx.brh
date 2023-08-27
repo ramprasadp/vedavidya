@@ -1,0 +1,1654 @@
+j~n
+~n
+\.a
+\.N
+~N
+R\^i
+\\'
+\\`
+\\\.
+H
+%@@1
+% File name             : r05.itx
+%--------------------------------------------
+% Text title            : Rugveda saMhitA maNDala 05
+% Author                : Vedic Tradition
+% Language              : Sanskrit
+% Subject               : philosophy/hinduism, Literature of ancient India
+% Description/comments  : Initial processing and help by
+% Avinash and Shashi Sathaye, Avinash Chopde, Shree Devi Kumar Sunder :attangadi
+% Reprocessed from Original by Detlef Eichler with additional corrections
+% The text is
+% shown with accents(Anudattas,dependent Svaritas, and independent Svaritas
+% including Kampas).Words are connected (agnimILe). Ch is doubled as
+% in gachChati according to the rules of Rigveda-Pratishakhya. At the end
+% of a word m is replaced by Anusvara M if the initial letter of the
+% following word is a labial stop consonant (p, ph, b, bh, m).
+%
+% Source                : The Aufrecht/van Nooten/:olland (Samhita) version
+% of the Rigveda (http://www.people.fas.harvard.edu/~witzel/onlineRV.htm).
+% In this text accented vowels have Udatta or 'independent Svarita' markers.
+% Kampas are not shown. Words are separated (agnim ILe).
+% Ch is not doubled as in gaChati. At the end of a word we find m before
+% a following labial stop consonant (p, ph, b, bh, m).
+%
+% Send corrections to   : DetlefEichler at gmx.net, sanskrit@cheerful.com
+% Special Note : :iatus between a and u(i) is shown in the ITRANS text as
+% a+u(+i). If you search for '+' you will find all 13 :iatus occurences. The
+% ITRANSLATOR ignores the + character.
+% In the following three words of the transliterated text created by the
+% ITRANSLATOR, you cannot distinguish between :iatus and the vowel au:
+% hira#Nyapra+uga\_M (1.035.05a), dU\_ra+u#pabdo\_ (7.021.02c), and
+% pra+u#ga\_M (10.130.03c). In all other ten :iatus occurences the Svarita
+% accent rests on the a. In this case you know that a :iatus is occuring
+% because in the case of the vowel au (ai) the Svarita accent would rest
+% on the u (i).
+% 
+% Transliterated by     : 1. Source: Aufrecht/van Nooten/:olland (Samhita)
+%                         2. Final transliteration: Detlef Eichler
+% Proofread by          :
+% Latest update         : April 25, 2009
+% Special Instructions  :
+% require i1h.hdr,ijag.inc,itrans.sty,multicol.sty,iarticle.sty
+% Transliteration scheme: ITRANS 5.3
+% Site access           : http://detlefeichler.googlepages.com/Rigveda.htm
+% http://sanskritdocuments.org/mirrors/rigveda/
+%
+%-----------------------------------------------------------------------------
+
+% The text is to be used for personal studies and research only.
+% Any use for commercial purpose is prohibited as a 'gentleman's'
+% agreement.
+%-----------------------------------------------------------------------------
+% @@2
+%
+% Commands upto #indian and others with \ mark
+% are needed for devanaagarii output and formatting.
+%--------------------------------------------------------
+
+
+
+\documentstyle[11pt,multicol,itrans]{article}
+%\documentclass[11pt]{article}
+%\usepackage{multicol}
+#include=ijag.inc
+#endwordvowel=.h
+\portraitwide
+\parindent=100pt                
+\let\usedvng=\Largedvng      % for 1 column     
+\pagenumbering{itrans} 
+\def\engtitle#1{\hrule\medskip\centerline{\LARGE #1}}
+\def\itxtitle#1{\medskip\centerline{\LARGEdvng #1}\medskip\hrule}
+\def\endtitles{\medskip\obeyspaceslines}
+%%
+\begin{document}
+
+\engtitle{.. Rigveda Mandala 5 ..}##
+\itxtitle{.. Rugveda: maNDalaM 5 ..}##\endtitles ##
+
+abo#dhyaqgni: saqmidhAq janA#nAqM prati# dheqnumi#vAyaqtImuqShAsa#m |
+yaqhvA i#vaq pra vaqyAmuqjjihA#nAq: pra bhAqnava#: sisrateq nAkaqmachCha# || 5.001.01
+abo#dhiq hotA# yaqjathA#ya deqvAnUqrdhvo aqgni: suqmanA#: prAqtara#sthAt |
+sami#ddhasyaq rusha#dadarshiq pAjo# maqhAndeqvastama#soq nira#mochi || 5.001.02
+yadI#M gaqNasya# rashaqnAmajI#gaq: shuchi#rag~gkteq shuchi#bhiqrgobhi#raqgni: |
+AddakShi#NA yujyate vAjaqyantyu#ttAqnAmUqrdhvo a#dhayajjuqhUbhi#: || 5.001.03
+aqgnimachChA# devayaqtAM manA#Msiq chakShU#MShIvaq sUryeq saM cha#ranti |
+yadIqM suvA#te uqShasAq virU#pe shveqto vAqjI jA#yateq agreq ahnA#m || 5.001.04
+jani#ShTaq hi jenyoq agreq ahnA#M hiqto hiqteShva#ruqSho vane#Shu |
+dame#dame saqpta ratnAq dadhA#noq&gnirhotAq ni Sha#sAdAq yajI#yAn || 5.001.05
+aqgnirhotAq nya#sIdaqdyajI#yAnuqpasthe# mAqtu: su#raqbhA u# loqke |
+yuvA# kaqvi: pu#runiqShTha RuqtAvA# dhaqrtA kRu#ShTIqnAmuqta madhya# iqddha: || 5.001.06
+pra Nu tyaM vipra#madhvaqreShu# sAqdhumaqgniM hotA#ramILateq namo#bhi: |
+A yastaqtAnaq roda#sI Ruqtenaq nitya#M mRujanti vAqjina#M ghRuqtena# || 5.001.07
+mAqrjAqlyo# mRujyateq sve damU#nA: kaviprashaqsto ati#thi: shiqvo na#: |
+saqhasra#shRug~ggo vRuShaqbhastado#jAq vishvA#~M agneq saha#sAq prAsyaqnyAn || 5.001.08
+pra saqdyo a#gneq atye#ShyaqnyAnAqviryasmaiq chAru#tamo baqbhUtha# |
+IqLenyo# vapuqShyo# viqbhAvA# priqyo viqshAmati#thiqrmAnu#ShINAm || 5.001.09
+tubhya#M bharanti kShiqtayo# yaviShTha baqlima#gneq anti#taq ota dUqrAt |
+A bhandi#ShThasya sumaqtiM chi#kiddhi bRuqhatte# agneq mahiq sharma# bhaqdram || 5.001.10
+Adya ratha#M bhAnumo bhAnuqmantaqmagneq tiShTha# yajaqtebhiq: sama#ntam |
+viqdvAnpa#thIqnAmuqrva1q#ntari#kShaqmeha deqvAnha#viqradyA#ya vakShi || 5.001.11
+avo#chAma kaqvayeq medhyA#yaq vacho# vaqndAru# vRuShaqbhAyaq vRuShNe# |
+gavi#ShThiroq nama#sAq stoma#maqgnau diqvI#va ruqkmamu#ruqvya~jcha#mashret || 5.001.12
+
+kuqmAqraM mAqtA yu#vaqti: samu#bdhaqM guhA# bibhartiq na da#dAti piqtre |
+anI#kamasyaq na miqnajjanA#sa: puqra: pa#shyantiq nihi#tamaraqtau || 5.002.01
+kameqtaM tvaM yu#vate kumAqraM peShI# bibharShiq mahi#ShI jajAna |
+pUqrvIrhi garbha#: shaqrado# vaqvardhApa#shyaM jAqtaM yadasU#ta mAqtA || 5.002.02
+hira#NyadantaqM shuchi#varNamAqrAtkShetrA#dapashyaqmAyu#dhAq mimA#nam |
+daqdAqno a#smA aqmRuta#M viqpRukvaqtkiM mAma#niqndrA: kRu#NavannanuqkthA: || 5.002.03
+kShetrA#dapashyaM sanuqtashchara#ntaM suqmadyUqthaM na puqru shobha#mAnam |
+na tA a#gRubhraqnnaja#niShTaq hi Sha: pali#knIqridyu#vaqtayo# bhavanti || 5.002.04
+ke me# maryaqkaM vi ya#vantaq gobhiqrna yeShA#M goqpA ara#NashchiqdAsa# |
+ya I#M jagRuqbhuravaq te sRu#jaqntvAjA#ti paqshva upa# nashchikiqtvAn || 5.002.05
+vaqsAM rAjA#naM vasaqtiM janA#nAqmarA#tayoq ni da#dhuqrmartye#Shu |
+brahmAqNyatreqravaq taM sRu#jantu nindiqtAroq nindyA#so bhavantu || 5.002.06
+shuna#shchiqchChepaqM nidi#taM saqhasrAqdyUpA#damu~jchoq asha#miShTaq hi Sha: |
+eqvAsmada#gneq vi mu#mugdhiq pAshAqnhota#shchikitva iqha tU niqShadya# || 5.002.07
+hRuqNIqyamA#noq apaq hi madaiyeq: pra me# deqvAnA#M vrataqpA u#vAcha |
+indro# viqdvA~M anuq hi tvA# chaqchakShaq tenAqhama#gneq anu#shiShTaq AgA#m || 5.002.08
+vi jyoti#ShA bRuhaqtA bhA#tyaqgnirAqvirvishvA#ni kRuNute mahiqtvA |
+prAde#vIrmAqyA: sa#hate duqrevAq: shishI#teq shRug~ggeq rakSha#se viqnikShe# || 5.002.09
+uqta svAqnAso# diqvi Sha#ntvaqgnestiqgmAyu#dhAq rakSha#seq hantaqvA u# |
+made# chidasyaq pra ru#jantiq bhAmAq na va#rante pariqbAdhoq ade#vI: || 5.002.10
+eqtaM teq stoma#M tuvijAtaq viproq rathaqM na dhIraq: svapA# atakSham |
+yadIda#gneq pratiq tvaM de#vaq haryAq: sva#rvatIraqpa e#nA jayema || 5.002.11
+tuqviqgrIvo# vRuShaqbho vA#vRudhAqno#&shaqtrva1q#rya: sama#jAtiq veda#: |
+itIqmamaqgnimaqmRutA# avochanbaqrhiShma#teq mana#veq sharma# yaMsaddhaqviShma#teq mana#veq sharma# yaMsat || 5.002.12
+
+tvama#gneq varu#Noq jAya#seq yattvaM miqtro bha#vasiq yatsami#ddha: |
+tve vishve# sahasasputra deqvAstvamindro# dAqshuSheq martyA#ya || 5.003.01
+tvama#ryaqmA bha#vasiq yatkaqnInAqM nAma# svadhAvaqnguhya#M bibharShi |
+aq~jjanti# miqtraM sudhi#taqM na gobhiqryaddampa#tIq sama#nasA kRuqNoShi# || 5.003.02
+tava# shriqye maqruto# marjayantaq rudraq yatteq jani#maq chAru# chiqtram |
+paqdaM yadviShNo#rupaqmaM niqdhAyiq tena# pAsiq guhyaqM nAmaq gonA#m || 5.003.03
+tava# shriqyA suqdRusho# deva deqvA: puqrU dadhA#nA aqmRuta#M sapanta |
+hotA#ramaqgniM manu#Shoq ni She#durdashaqsyanta# uqshijaq: shaMsa#mAqyo: || 5.003.04
+na tvaddhotAq pUrvo# agneq yajI#yAqnna kAvyai#: paqro a#sti svadhAva: |
+viqshashchaq yasyAq ati#thiqrbhavA#siq sa yaqj~jena# vanavaddevaq martA#n || 5.003.05
+vaqyama#gne vanuyAmaq tvotA# vasUqyavo# haqviShAq budhya#mAnA: |
+vaqyaM sa#maqrye viqdatheqShvahnA#M vaqyaM rAqyA sa#hasasputraq martA#n || 5.003.06
+yo naq Ago# aqbhyenoq bharAqtyadhIdaqghamaqghasha#Mse dadhAta |
+jaqhI chi#kitvo aqbhisha#stimeqtAmagneq yo no# maqrchaya#ti dvaqyena# || 5.003.07
+tvAmaqsyA vyuShi# devaq pUrve# dUqtaM kRu#NvAqnA a#yajanta haqvyai: |
+saqMsthe yada#gnaq Iya#se rayIqNAM deqvo martaiqrvasu#bhiriqdhyamA#na: || 5.003.08
+ava# spRudhi piqtaraqM yodhi# viqdvAnpuqtro yaste# sahasa: sUna Uqhe |
+kaqdA chi#kitvo aqbhi cha#kShaseq no&gne# kaqdA~M Ru#taqchidyA#tayAse || 5.003.09
+bhUriq nAmaq vanda#mAno dadhAti piqtA va#soq yadiq tajjoqShayA#se |
+kuqviddeqvasyaq saha#sA chakAqna: suqmnamaqgnirva#nate vAvRudhAqna: || 5.003.10
+tvamaqg~gga ja#riqtAra#M yaviShThaq vishvA#nyagne duriqtAti# parShi |
+steqnA a#dRushranriqpavoq janAqso&j~jA#taketA vRujiqnA a#bhUvan || 5.003.11
+iqme yAmA#sastvaqdriga#bhUvaqnvasa#ve vAq tadidAgo# avAchi |
+nAhAqyamaqgniraqbhisha#staye noq na rISha#te vAvRudhAqna: parA# dAt || 5.003.12
+
+tvAma#gneq vasu#patiqM vasU#nAmaqbhi pra ma#nde adhvaqreShu# rAjan |
+tvayAq vAja#M vAjaqyanto# jayemAqbhi ShyA#ma pRutsuqtIrmartyA#nAm || 5.004.01
+haqvyaqvALaqgniraqjara#: piqtA no# viqbhurviqbhAvA# suqdRushI#ko aqsme |
+suqgAqrhaqpaqtyA: samiSho# didIhyasmaqdrya1q#ksaM mi#mIhiq shravA#Msi || 5.004.02
+viqshAM kaqviM viqshpatiqM mAnu#ShINAqM shuchi#M pAvaqkaM ghRuqtapRu#ShThamaqgnim |
+ni hotA#raM vishvaqvida#M dadhidhveq sa deqveShu# vanateq vAryA#Ni || 5.004.03
+juqShasvA#gnaq iLa#yA saqjoShAq yata#mAno raqshmibhiq: sUrya#sya |
+juqShasva# na: saqmidha#M jAtavedaq A cha# deqvAnha#viqradyA#ya vakShi || 5.004.04
+juShToq damU#nAq ati#thirduroqNa iqmaM no# yaqj~jamupa# yAhi viqdvAn |
+vishvA# agne abhiqyujo# viqhatyA# shatrUyaqtAmA bha#rAq bhoja#nAni || 5.004.05
+vaqdhenaq dasyuqM pra hi chAqtaya#svaq vaya#: kRuNvAqnastaqnveq3q# svAyai# |
+pipa#rShiq yatsa#hasasputra deqvAntso a#gne pAhi nRutamaq vAje# aqsmAn || 5.004.06
+vaqyaM te# agna uqkthairvi#dhema vaqyaM haqvyai: pA#vaka bhadrashoche |
+aqsme raqyiM viqshvavA#raqM sami#nvAqsme vishvA#niq dravi#NAni dhehi || 5.004.07
+aqsmAka#magne adhvaqraM ju#Shasvaq saha#sa: sUno triShadhastha haqvyam |
+vaqyaM deqveShu# suqkRuta#: syAmaq sharma#NA nastriqvarU#thena pAhi || 5.004.08
+vishvA#ni no duqrgahA# jAtavedaq: sindhuqM na nAqvA du#riqtAti# parShi |
+agne# atriqvannama#sA gRuNAqnoq3q#&smAka#M bodhyaviqtA taqnUnA#m || 5.004.09
+yastvA# hRuqdA kIqriNAq manya#mAqno&ma#rtyaqM martyoq joha#vImi |
+jAta#vedoq yasho# aqsmAsu# dhehi praqjAbhi#ragne amRutaqtvama#shyAm || 5.004.10
+yasmaiq tvaM suqkRute# jAtaveda u loqkama#gne kRuqNava#: syoqnam |
+aqshvinaqM sa puqtriNa#M vIqrava#ntaqM goma#ntaM raqyiM na#shate svaqsti || 5.004.11
+
+susa#middhAya shoqchiShe# ghRuqtaM tIqvraM ju#hotana |
+aqgnaye# jAqtave#dase || 5.005.01
+narAqshaMsa#: suShUdatIqmaM yaqj~jamadA#bhya: |
+kaqvirhi madhu#hastya: || 5.005.02
+IqLiqto a#gnaq A vaqhendra#M chiqtramiqha priqyam |
+suqkhai rathe#bhirUqtaye# || 5.005.03
+UrNa#mradAq vi pra#thasvAqbhya1q#rkA a#nUShata |
+bhavA# na: shubhra sAqtaye# || 5.005.04
+devI#rdvAroq vi shra#yadhvaM suprAyaqNA na# Uqtaye# |
+prapra# yaqj~jaM pRu#NItana || 5.005.05
+suqpratI#ke vayoqvRudhA# yaqhvI Ruqtasya# mAqtarA# |
+doqShAmuqShAsa#mImahe || 5.005.06
+vAta#syaq patma#nnILiqtA daivyAq hotA#rAq manu#Sha: |
+iqmaM no# yaqj~jamA ga#tam || 5.005.07
+iLAq sara#svatI maqhI tiqsro deqvIrma#yoqbhuva#: |
+baqrhi: sI#dantvaqsridha#: || 5.005.08
+shiqvastva#ShTariqhA ga#hi viqbhu: poSha# uqta tmanA# |
+yaqj~jeya#j~je naq uda#va || 5.005.09
+yatraq vettha# vanaspate deqvAnAqM guhyAq nAmA#ni |
+tatra# haqvyAni# gAmaya || 5.005.10
+svAhAqgnayeq varu#NAyaq svAhendrA#ya maqrudbhya#: |
+svAhA# deqvebhyo# haqvi: || 5.005.11
+
+aqgniM taM ma#nyeq yo vasuqrastaqM yaM yanti# dheqnava#: |
+astaqmarva#nta Aqshavo&staqM nityA#so vAqjinaq iSha#M stoqtRubhyaq A bha#ra || 5.006.01
+so aqgniryo vasu#rgRuqNe saM yamAqyanti# dheqnava#: |
+samarva#nto raghuqdruvaq: saM su#jAqtAsa#: sUqrayaq iSha#M stoqtRubhyaq A bha#ra || 5.006.02
+aqgnirhi vAqjina#M viqshe dadA#ti viqshvacha#rShaNi: |
+aqgnI rAqye svAqbhuvaqM sa prIqto yA#tiq vAryaqmiSha#M stoqtRubhyaq A bha#ra || 5.006.03
+A te# agna idhImahi dyuqmanta#M devAqjara#m |
+yaddhaq syA teq panI#yasI saqmiddIqdaya#tiq dyavISha#M stoqtRubhyaq A bha#ra || 5.006.04
+A te# agna RuqchA haqvi: shukra#sya shochiShaspate |
+sushcha#ndraq dasmaq vishpa#teq havya#vAqT tubhya#M hUyataq iSha#M stoqtRubhyaq A bha#ra || 5.006.05
+pro tye aqgnayoq&gniShuq vishva#M puShyantiq vArya#m |
+te hi#nvireq ta i#nvireq ta i#ShaNyantyAnuqShagiSha#M stoqtRubhyaq A bha#ra || 5.006.06
+tavaq tye a#gne aqrchayoq mahi# vrAdhanta vAqjina#: |
+ye patva#bhi: shaqphAnA#M vraqjA bhuqrantaq gonAqmiSha#M stoqtRubhyaq A bha#ra || 5.006.07
+navA# no agnaq A bha#ra stoqtRubhya#: sukShiqtIriSha#: |
+te syA#maq ya A#nRuqchustvAdU#tAsoq dame#damaq iSha#M stoqtRubhyaq A bha#ra || 5.006.08
+uqbhe su#shchandra saqrpiShoq darvI# shrINISha Aqsani# |
+uqto naq utpu#pUryA uqktheShu# shavasaspataq iSha#M stoqtRubhyaq A bha#ra || 5.006.09
+eqvA~M aqgnima#juryamurgIqrbhiryaqj~jebhi#rAnuqShak |
+dadha#daqsme suqvIrya#muqta tyadAqshvashvyaqmiSha#M stoqtRubhyaq A bha#ra || 5.006.10
+
+sakhA#yaq: saM va#: saqmya~jchaqmiShaqM stoma#M chAqgnaye# |
+varShi#ShThAya kShitIqnAmUqrjo naptreq saha#svate || 5.007.01
+kutrA# chiqdyasyaq samRu#tau raqNvA naro# nRuqShada#ne |
+arha#ntashchiqdyami#ndhaqte sa#Mjaqnaya#nti jaqntava#: || 5.007.02
+saM yadiqSho vanA#maheq saM haqvyA mAnu#ShANAm |
+uqta dyuqmnasyaq shava#sa Ruqtasya# raqshmimA da#de || 5.007.03
+sa smA# kRuNoti keqtumA nakta#M chiddUqra A saqte |
+pAqvaqko yadvanaqspatIqnpra smA# miqnAtyaqjara#: || 5.007.04
+ava# smaq yasyaq veSha#Neq sveda#M paqthiShuq juhva#ti |
+aqbhImahaq svaje#nyaqM bhUmA# pRuqShTheva# ruruhu: || 5.007.05
+yaM martya#: puruqspRuha#M viqdadvishva#syaq dhAya#se |
+pra svAda#naM pitUqnAmasta#tAtiM chidAqyave# || 5.007.06
+sa hi ShmAq dhanvAkShi#taqM dAtAq na dAtyA paqshu: |
+hiri#shmashruq: shuchi#dannRuqbhurani#bhRuShTataviShi: || 5.007.07
+shuchi#: Shmaq yasmA# atriqvatpra svadhi#tIvaq rIya#te |
+suqShUra#sUta mAqtA krAqNA yadA#naqshe bhaga#m || 5.007.08
+A yaste# sarpirAsuqte&gneq shamastiq dhAya#se |
+aiShu# dyuqmnamuqta shravaq A chiqttaM martye#Shu dhA: || 5.007.09
+iti# chinmaqnyumaqdhrijaqstvAdA#taqmA paqshuM da#de |
+Ada#gneq apRu#Naqto&tri#: sAsahyAqddasyU#niqSha: sA#sahyAqnnR^In || 5.007.10
+
+tvAma#gna RutAqyavaq: samI#dhire praqtnaM praqtnAsa# Uqtaye# sahaskRuta |
+puqruqshchaqndraM ya#jaqtaM viqshvadhA#yasaqM damU#nasaM gRuqhapa#tiqM vare#Nyam || 5.008.01
+tvAma#gneq ati#thiM pUqrvyaM visha#: shoqchiShke#shaM gRuqhapa#tiqM ni She#dire |
+bRuqhatke#tuM puruqrUpa#M dhanaqspRuta#M suqsharmA#NaqM svava#saM jaraqdviSha#m || 5.008.02
+tvAma#gneq mAnu#ShIrILateq visho# hotrAqvidaqM vivi#chiM ratnaqdhAta#mam |
+guhAq santa#M subhaga viqshvada#rshataM tuviShvaqNasa#M suqyaja#M ghRutaqshriya#m || 5.008.03
+tvAma#gne dharNaqsiM viqshvadhA# vaqyaM gIqrbhirgRuqNantoq namaqsopa# sedima |
+sa no# juShasva samidhAqno a#g~ggiro deqvo marta#sya yaqshasA# sudIqtibhi#: || 5.008.04
+tvama#gne puruqrUpo# viqshevi#sheq vayo# dadhAsi praqtnathA# puruShTuta |
+puqrUNyannAq saha#sAq vi rA#jasiq tviShiq: sA te# titviShAqNasyaq nAdhRuShe# || 5.008.05
+tvAma#gne samidhAqnaM ya#viShThya deqvA dUqtaM cha#krire havyaqvAha#nam |
+uqruqjraya#saM ghRuqtayo#niqmAhu#taM tveqShaM chakShu#rdadhire chodaqyanma#ti || 5.008.06
+tvAma#gne praqdivaq Ahu#taM ghRuqtai: su#mnAqyava#: suShaqmidhAq samI#dhire |
+sa vA#vRudhAqna oSha#dhIbhirukShiqtoq3q#&bhi jrayA#Msiq pArthi#vAq vi ti#ShThase || 5.008.07
+
+tvAma#gne haqviShma#nto deqvaM martA#sa ILate |
+manye# tvA jAqtave#dasaqM sa haqvyA va#kShyAnuqShak || 5.009.01
+aqgnirhotAq dAsva#taq: kShaya#sya vRuqktaba#rhiSha: |
+saM yaqj~jAsaqshchara#ntiq yaM saM vAjA#sa: shravaqsyava#: || 5.009.02
+uqta smaq yaM shishu#M yathAq navaqM jani#ShTAqraNI# |
+dhaqrtAraqM mAnu#ShINAM viqshAmaqgniM sva#dhvaqram || 5.009.03
+uqta sma# durgRubhIyase puqtro na hvAqryANA#m |
+puqrU yo dagdhAsiq vanAgne# paqshurna yava#se || 5.009.04
+adha# smaq yasyAqrchaya#: saqmyaksaqMyanti# dhUqmina#: |
+yadIqmaha# triqto diqvyupaq dhmAte#vaq dhama#tiq shishI#te dhmAqtarI# yathA || 5.009.05
+tavAqhama#gna Uqtibhi#rmiqtrasya# chaq prasha#stibhi: |
+dveqShoqyutoq na du#riqtA tuqryAmaq martyA#nAm || 5.009.06
+taM no# agne aqbhI naro# raqyiM sa#hasvaq A bha#ra |
+sa kShe#payaqtsa po#ShayaqdbhuvaqdvAja#sya sAqtaya# uqtaidhi# pRuqtsu no# vRuqdhe || 5.009.07
+
+agnaq oji#ShThaqmA bha#ra dyuqmnamaqsmabhya#madhrigo |
+pra no# rAqyA parI#NasAq ratsiq vAjA#yaq panthA#m || 5.010.01
+tvaM no# agne adbhutaq kratvAq dakSha#sya maqMhanA# |
+tve a#suqrya1q#mAru#hatkrAqNA miqtro na yaqj~jiya#: || 5.010.02
+tvaM no# agna eShAqM gaya#M puqShTiM cha# vardhaya |
+ye stome#bhiq: pra sUqrayoq naro# maqghAnyA#naqshu: || 5.010.03
+ye a#gne chandra teq gira#: shuqmbhantyashva#rAdhasa: |
+shuShme#bhi: shuqShmiNoq naro# diqvashchiqdyeShA#M bRuqhatsu#kIqrtirbodha#tiq tmanA# || 5.010.04
+tavaq tye a#gne aqrchayoq bhrAja#nto yanti dhRuShNuqyA |
+pari#jmAnoq na viqdyuta#: svAqno rathoq na vA#jaqyu: || 5.010.05
+nU no# agna Uqtaye# saqbAdha#sashcha rAqtaye# |
+aqsmAkA#sashcha sUqrayoq vishvAq AshA#starIqShaNi# || 5.010.06
+tvaM no# agne ag~ggira stuqta stavA#naq A bha#ra |
+hota#rvibhvAqsaha#M raqyiM stoqtRubhyaq stava#se cha na uqtaidhi# pRuqtsu no# vRuqdhe || 5.010.07
+
+jana#sya goqpA a#janiShTaq jAgRu#viraqgni: suqdakSha#: suviqtAyaq navya#se |
+ghRuqtapra#tIko bRuhaqtA di#viqspRushA# dyuqmadvi bhA#ti bharaqtebhyaq: shuchi#: || 5.011.01
+yaqj~jasya# keqtuM pra#thaqmaM puqrohi#tamaqgniM nara#striShadhaqsthe samI#dhire |
+indre#Na deqvai: saqrathaqM sa baqrhiShiq sIdaqnni hotA# yaqjathA#ya suqkratu#: || 5.011.02
+asa#mmRuShTo jAyase mAqtro: shuchi#rmaqndra: kaqviruda#tiShTho viqvasva#ta: |
+ghRuqtena# tvAvardhayannagna Ahuta dhUqmaste# keqtura#bhavaddiqvi shriqta: || 5.011.03
+aqgnirno# yaqj~jamupa# vetu sAdhuqyAgniM naroq vi bha#rante gRuqhegRu#he |
+aqgnirdUqto a#bhavaddhavyaqvAha#noq&gniM vRu#NAqnA vRu#Nate kaqvikra#tum || 5.011.04
+tubhyeqdama#gneq madhu#mattamaqM vachaqstubhya#M manIqShA iqyama#stuq shaM hRuqde |
+tvAM giraq: sindhu#mivAqvanI#rmaqhIrA pRu#Nantiq shava#sA vaqrdhaya#nti cha || 5.011.05
+tvAma#gneq ag~ggi#rasoq guhA# hiqtamanva#vinda~jChishriyAqNaM vane#vane |
+sa jA#yase maqthyamA#naq: saho# maqhattvAmA#huq: saha#saspuqtrama#g~ggira: || 5.011.06
+
+prAgnaye# bRuhaqte yaqj~jiyA#ya Ruqtasyaq vRuShNeq asu#rAyaq manma# |
+ghRuqtaM na yaqj~ja Aqsyeq3q# supU#taqM gira#M bhare vRuShaqbhAya# pratIqchIm || 5.012.01
+RuqtaM chi#kitva Ruqtamichchi#kiddhyRuqtasyaq dhArAq anu# tRundhi pUqrvI: |
+nAhaM yAqtuM saha#sAq na dvaqyena# RuqtaM sa#pAmyaruqShasyaq vRuShNa#: || 5.012.02
+kayA# no agna Ruqtaya#nnRuqtenaq bhuvoq nave#dA uqchatha#syaq navya#: |
+vedA# me deqva Ru#tuqpA Ru#tUqnAM nAhaM pati#M saniqturaqsya rAqya: || 5.012.03
+ke te# agne riqpaveq bandha#nAsaq: ke pAqyava#: saniShanta dyuqmanta#: |
+ke dhAqsima#gneq anRu#tasya pAntiq ka Asa#toq vacha#sa: santi goqpA: || 5.012.04
+sakhA#yasteq viShu#NA agna eqte shiqvAsaq: santoq ashi#vA abhUvan |
+adhU#rShata svaqyameqte vacho#bhirRujUyaqte vRu#jiqnAni# bruqvanta#: || 5.012.05
+yaste# agneq nama#sA yaqj~jamITTa# RuqtaM sa pA#tyaruqShasyaq vRuShNa#: |
+tasyaq kShaya#: pRuqthurA sAqdhure#tu praqsarsrA#Nasyaq nahu#Shasyaq sheSha#: || 5.012.06
+
+archa#ntastvA havAmaqhe&rcha#ntaq: sami#dhImahi |
+agneq archa#nta Uqtaye# || 5.013.01
+aqgne stoma#M manAmahe siqdhramaqdya di#viqspRusha#: |
+deqvasya# draviNaqsyava#: || 5.013.02
+aqgnirju#Shata noq giroq hotAq yo mAnu#SheqShvA |
+sa ya#kShaqddaivyaqM jana#m || 5.013.03
+tvama#gne saqprathA# asiq juShToq hotAq vare#Nya: |
+tvayA# yaqj~jaM vi ta#nvate || 5.013.04
+tvAma#gne vAjaqsAta#maqM viprA# vardhantiq suShTu#tam |
+sa no# rAsva suqvIrya#m || 5.013.05
+agne# neqmiraqrA~M i#va deqvA~MstvaM pa#riqbhUra#si |
+A rAdha#shchiqtramRu#~jjase || 5.013.06
+
+aqgniM stome#na bodhaya samidhAqno ama#rtyam |
+haqvyA deqveShu# no dadhat || 5.014.01
+tama#dhvaqreShvI#Late deqvaM martAq ama#rtyam |
+yaji#ShThaqM mAnu#Sheq jane# || 5.014.02
+taM hi shashva#ntaq ILa#te sruqchA deqvaM ghRu#taqshchutA# |
+aqgniM haqvyAyaq voLha#ve || 5.014.03
+aqgnirjAqto a#rochataq ghnandasyUq~jjyoti#ShAq tama#: |
+avi#ndaqdgA aqpa: sva#: || 5.014.04
+aqgnimIqLenya#M kaqviM ghRuqtapRu#ShThaM saparyata |
+vetu# me shRuqNavaqddhava#m || 5.014.05
+aqgniM ghRuqtena# vAvRudhuq stome#bhirviqshvacha#rShaNim |
+svAqdhIbhi#rvachaqsyubhi#: || 5.014.06
+
+pra veqdhase# kaqvayeq vedyA#yaq gira#M bhare yaqshase# pUqrvyAya# |
+ghRuqtapra#sattoq asu#ra: suqshevo# rAqyo dhaqrtA dhaqruNoq vasvo# aqgni: || 5.015.01
+Ruqtena# RuqtaM dhaqruNa#M dhArayanta yaqj~jasya# shAqke pa#raqme vyo#man |
+diqvo dharma#ndhaqruNe# seqduShoq nR^I~jjAqtairajA#tA~M aqbhi ye na#naqkShu: || 5.015.02
+aqg~ghoqyuva#staqnva#stanvateq vi vayo# maqhadduqShTara#M pUqrvyAya# |
+sa saqMvatoq nava#jAtastuturyAtsiqg~ghaM na kruqddhamaqbhitaq: pari# ShThu: || 5.015.03
+mAqtevaq yadbhara#se paprathAqno jana#MjanaqM dhAya#seq chakSha#se cha |
+vayo#vayo jaraseq yaddadhA#naq: pariq tmanAq viShu#rUpo jigAsi || 5.015.04
+vAjoq nu teq shava#saspAqtvanta#muqruM dogha#M dhaqruNa#M deva rAqya: |
+paqdaM na tAqyurguhAq dadhA#no maqho rAqye chiqtayaqnnatri#maspa: || 5.015.05
+
+bRuqhadvayoq hi bhAqnave&rchA# deqvAyAqgnaye# |
+yaM miqtraM na prasha#stibhiqrmartA#so dadhiqre puqra: || 5.016.01
+sa hi dyubhiqrjanA#nAqM hotAq dakSha#sya bAqhvo: |
+vi haqvyamaqgnirA#nuqShagbhagoq na vAra#mRuNvati || 5.016.02
+aqsya stome# maqghona#: saqkhye vRuqddhasho#chiSha: |
+vishvAq yasmi#ntuviqShvaNiq samaqrye shuShma#mAdaqdhu: || 5.016.03
+adhAq hya#gna eShAM suqvIrya#sya maqMhanA# |
+tamidyaqhvaM na roda#sIq pariq shravo# babhUvatu: || 5.016.04
+nU naq ehiq vAryaqmagne# gRuNAqna A bha#ra |
+ye vaqyaM ye cha# sUqraya#: svaqsti dhAma#heq sachoqtaidhi# pRuqtsu no# vRuqdhe || 5.016.05
+
+A yaqj~jairde#vaq martya# iqtthA tavyA#MsamUqtaye# |
+aqgniM kRuqte sva#dhvaqre pUqrurI#LIqtAva#se || 5.017.01
+asyaq hi svaya#shastara AqsA vi#dharmaqnmanya#se |
+taM nAka#M chiqtrasho#chiShaM maqndraM paqro ma#nIqShayA# || 5.017.02
+aqsya vAsA u# aqrchiShAq ya Ayu#kta tuqjA giqrA |
+diqvo na yasyaq reta#sA bRuqhachChocha#ntyaqrchaya#: || 5.017.03
+aqsya kratvAq viche#taso daqsmasyaq vasuq rathaq A |
+adhAq vishvA#suq havyoq&gnirviqkShu pra sha#syate || 5.017.04
+nU naq iddhi vArya#mAqsA sa#chanta sUqraya#: |
+Urjo# napAdaqbhiShTa#ye pAqhi shaqgdhi svaqstaya# uqtaidhi# pRuqtsu no# vRuqdhe || 5.017.05
+
+prAqtaraqgni: pu#rupriqyo viqsha sta#veqtAti#thi: |
+vishvA#niq yo ama#rtyo haqvyA marte#Shuq raNya#ti || 5.018.01
+dviqtAya# mRuqktavA#haseq svasyaq dakSha#sya maqMhanA# |
+induqM sa dha#tta AnuqShakstoqtA chi#tte amartya || 5.018.02
+taM vo# dIqrghAyu#shochiShaM giqrA hu#ve maqghonA#m |
+ari#ShToq yeShAqM rathoq vya#shvadAvaqnnIya#te || 5.018.03
+chiqtrA vAq yeShuq dIdhi#tirAqsannuqkthA pAntiq ye |
+stIqrNaM baqrhi: sva#rNareq shravA#Msi dadhireq pari# || 5.018.04
+ye me# pa~jchAqshata#M daqdurashvA#nAM saqdhastu#ti |
+dyuqmada#gneq mahiq shravo# bRuqhatkRu#dhi maqghonA#M nRuqvada#mRuta nRuqNAm || 5.018.05
+
+aqbhya#vaqsthA: pra jA#yanteq pra vaqvrervaqvrishchi#keta |
+uqpasthe# mAqturvi cha#ShTe || 5.019.01
+juqhuqre vi chiqtayaqnto&ni#miShaM nRuqmNaM pA#nti |
+A dRuqLhAM pura#M vivishu: || 5.019.02
+A shvai#treqyasya# jaqntavo# dyuqmadva#rdhanta kRuqShTaya#: |
+niqShkagrI#vo bRuqhadu#ktha eqnA madhvAq na vA#jaqyu: || 5.019.03
+priqyaM duqgdhaM na kAmyaqmajA#mi jAqmyo: sachA# |
+ghaqrmo na vAja#jaThaqro&da#bdhaq: shashva#toq dabha#: || 5.019.04
+krILa#nno rashmaq A bhu#vaq: saM bhasma#nA vAqyunAq vevi#dAna: |
+tA a#sya sandhRuqShajoq na tiqgmA: susa#MshitA vaqkShyo# vakShaNeqsthA: || 5.019.05
+
+yama#gne vAjasAtamaq tvaM chiqnmanya#se raqyim |
+taM no# gIqrbhi: shraqvAyya#M devaqtrA pa#nayAq yuja#m || 5.020.01
+ye a#gneq neraya#nti te vRuqddhA uqgrasyaq shava#sa: |
+apaq dveShoq apaq hvaroq&nyavra#tasya sashchire || 5.020.02
+hotA#raM tvA vRuNImaqhe&gneq dakSha#syaq sAdha#nam |
+yaqj~jeShu# pUqrvyaM giqrA praya#svanto havAmahe || 5.020.03
+iqtthA yathA# ta Uqtayeq saha#sAvandiqvedi#ve |
+rAqya RuqtAya# sukratoq gobhi#: ShyAma sadhaqmAdo# vIqrai: syA#ma sadhaqmAda#: || 5.020.04
+
+maqnuqShvattvAq ni dhI#mahi manuqShvatsami#dhImahi |
+agne# manuqShvada#g~ggiro deqvAnde#vayaqte ya#ja || 5.021.01
+tvaM hi mAnu#Sheq jane&gneq suprI#ta iqdhyase# |
+srucha#stvA yantyAnuqShaksujA#taq sarpi#rAsute || 5.021.02
+tvAM vishve# saqjoSha#so deqvAso# dUqtama#krata |
+saqpaqryanta#stvA kave yaqj~jeShu# deqvamI#Late || 5.021.03
+deqvaM vo# devayaqjyayAqgnimI#LItaq martya#: |
+sami#ddha: shukra dIdihyRuqtasyaq yoniqmAsa#da: saqsasyaq yoniqmAsa#da: || 5.021.04
+
+pra vi#shvasAmannatriqvadarchA# pAvaqkasho#chiShe |
+yo a#dhvaqreShvIDyoq hotA# maqndrata#mo viqshi || 5.022.01
+nya1q#gniM jAqtave#dasaqM dadhA#tA deqvamRuqtvija#m |
+pra yaqj~ja e#tvAnuqShagaqdyA deqvavya#chastama: || 5.022.02
+chiqkiqtvinma#nasaM tvA deqvaM martA#sa Uqtaye# |
+vare#Nyasyaq te&va#sa iyAqnAso# amanmahi || 5.022.03
+agne# chikiqddhya1q#sya na# iqdaM vacha#: sahasya |
+taM tvA# sushipra dampateq stomai#rvardhaqntyatra#yo gIqrbhi: shu#mbhaqntyatra#ya: || 5.022.04
+
+agneq saha#ntaqmA bha#ra dyuqmnasya# prAqsahA# raqyim |
+vishvAq yashcha#rShaqNIraqbhyAq3q#sA vAje#Shu sAqsaha#t || 5.023.01
+tama#gne pRutanAqShaha#M raqyiM sa#hasvaq A bha#ra |
+tvaM hi saqtyo adbhu#to dAqtA vAja#syaq goma#ta: || 5.023.02
+vishveq hi tvA# saqjoSha#soq janA#so vRuqktaba#rhiSha: |
+hotA#raqM sadma#su priqyaM vyantiq vAryA# puqru || 5.023.03
+sa hi ShmA# viqshvacha#rShaNiraqbhimA#tiq saho# daqdhe |
+agna# eqShu kShayeqShvA reqvanna#: shukra dIdihi dyuqmatpA#vaka dIdihi || 5.023.04
+
+agneq tvaM noq anta#ma uqta trAqtA shiqvo bha#vA varUqthya#: || 5.024.01
+vasu#raqgnirvasu#shravAq achChA# nakShi dyuqmatta#maM raqyiM dA#: || 5.024.02
+sa no# bodhi shruqdhI hava#muruqShyA No# aghAyaqta: sa#masmAt || 5.024.03
+taM tvA# shochiShTha dIdiva: suqmnAya# nUqnamI#maheq sakhi#bhya: || 5.024.04
+
+achChA# vo aqgnimava#se deqvaM gA#siq sa noq vasu#: |
+rAsa#tpuqtra Ru#ShUqNAmRuqtAvA# parShati dviqSha: || 5.025.01
+sa hi saqtyo yaM pUrve# chiddeqvAsa#shchiqdyamI#dhiqre |
+hotA#raM maqndraji#hvaqmitsu#dIqtibhi#rviqbhAva#sum || 5.025.02
+sa no# dhIqtI vari#ShThayAq shreShTha#yA cha sumaqtyA |
+agne# rAqyo di#dIhi na: suvRuqktibhi#rvareNya || 5.025.03
+aqgnirdeqveShu# rAjatyaqgnirmarte#ShvAviqshan |
+aqgnirno# havyaqvAha#noq&gniM dhIqbhi: sa#paryata || 5.025.04
+aqgnistuqvishra#vastamaM tuqvibra#hmANamuttaqmam |
+aqtUrta#M shrAvaqyatpa#tiM puqtraM da#dAti dAqshuShe# || 5.025.05
+aqgnirda#dAtiq satpa#tiM sAqsAhaq yo yuqdhA nRubhi#: |
+aqgniratya#M raghuqShyadaqM jetA#raqmapa#rAjitam || 5.025.06
+yadvAhi#ShThaqM tadaqgnaye# bRuqhada#rcha vibhAvaso |
+mahi#ShIvaq tvadraqyistvadvAjAq udI#rate || 5.025.07
+tava# dyuqmanto# aqrchayoq grAve#vochyate bRuqhat |
+uqto te# tanyaqturya#thA svAqno a#rtaq tmanA# diqva: || 5.025.08
+eqvA~M aqgniM va#sUqyava#: sahasAqnaM va#vandima |
+sa noq vishvAq atiq dviShaq: parSha#nnAqveva# suqkratu#: || 5.025.09
+
+agne# pAvaka roqchiShA# maqndrayA# deva jiqhvayA# |
+A deqvAnva#kShiq yakShi# cha || 5.026.01
+taM tvA# ghRutasnavImaheq chitra#bhAno svaqrdRusha#m |
+deqvA~M A vIqtaye# vaha || 5.026.02
+vIqtiho#traM tvA kave dyuqmantaqM sami#dhImahi |
+agne# bRuqhanta#madhvaqre || 5.026.03
+agneq vishve#bhiqrA ga#hi deqvebhi#rhaqvyadA#taye |
+hotA#raM tvA vRuNImahe || 5.026.04
+yaja#mAnAya sunvaqta Agne# suqvIrya#M vaha |
+deqvairA sa#tsi baqrhiShi# || 5.026.05
+saqmiqdhAqna: sa#hasrajiqdagneq dharmA#Ni puShyasi |
+deqvAnA#M dUqta uqkthya#: || 5.026.06
+nya1q#gniM jAqtave#dasaM hotraqvAhaqM yavi#ShThyam |
+dadhA#tA deqvamRuqtvija#m || 5.026.07
+pra yaqj~ja e#tvAnuqShagaqdyA deqvavya#chastama: |
+stRuqNIqta baqrhirAqsade# || 5.026.08
+edaM maqruto# aqshvinA# miqtra: sI#dantuq varu#Na: |
+deqvAsaq: sarva#yA viqshA || 5.026.09
+
+ana#svantAq satpa#tirmAmahe meq gAvAq cheti#ShThoq asu#ro maqghona#: |
+traiqvRuqShNo a#gne daqshabhi#: saqhasraiqrvaishvA#naraq trya#ruNashchiketa || 5.027.01
+yo me# shaqtA cha# viMshaqtiM chaq gonAqM harI# cha yuqktA suqdhurAq dadA#ti |
+vaishvA#naraq suShTu#to vAvRudhAqno&gneq yachChaq trya#ruNAyaq sharma# || 5.027.02
+eqvA te# agne sumaqtiM cha#kAqno navi#ShThAya navaqmaM traqsada#syu: |
+yo meq gira#stuvijAqtasya# pUqrvIryuqktenAqbhi trya#ruNo gRuqNAti# || 5.027.03
+yo maq iti# praqvochaqtyashva#medhAya sUqraye# |
+dada#dRuqchA saqniM yaqte dada#nmeqdhAmRu#tAyaqte || 5.027.04
+yasya# mA paruqShA: shaqtamu#ddhaqrShaya#ntyuqkShaNa#: |
+ashva#medhasyaq dAnAq: somA# ivaq tryA#shira: || 5.027.05
+indrA#gnI shataqdAvnyashva#medhe suqvIrya#m |
+kShaqtraM dhA#rayataM bRuqhaddiqvi sUrya#mivAqjara#m || 5.027.06
+
+sami#ddho aqgnirdiqvi shoqchira#shretpraqtyag~gg~guqShasa#murviqyA vi bhA#ti |
+etiq prAchI# viqshvavA#rAq namo#bhirdeqvA~M ILA#nA haqviShA# ghRuqtAchI# || 5.028.01
+saqmiqdhyamA#no aqmRuta#sya rAjasi haqviShkRuqNvanta#M sachase svaqstaye# |
+vishvaqM sa dha#tteq dravi#NaqM yaminva#syAtiqthyama#gneq ni cha# dhattaq itpuqra: || 5.028.02
+agneq shardha# mahaqte saubha#gAyaq tava# dyuqmnAnyu#ttaqmAni# santu |
+saM jA#spaqtyaM suqyamaqmA kRu#NuShva shatrUyaqtAmaqbhi ti#ShThAq mahA#Msi || 5.028.03
+sami#ddhasyaq prama#haqso&gneq vandeq tavaq shriya#m |
+vRuqShaqbho dyuqmnavA#~M asiq sama#dhvaqreShvi#dhyase || 5.028.04
+sami#ddho agna Ahuta deqvAnya#kShi svadhvara |
+tvaM hi ha#vyaqvALasi# || 5.028.05
+A ju#hotA duvaqsyatAqgniM pra#yaqtya#dhvaqre |
+vRuqNIqdhvaM ha#vyaqvAha#nam || 5.028.06
+
+trya#ryaqmA manu#Sho deqvatA#tAq trI ro#chaqnA diqvyA dhA#rayanta |
+archa#nti tvA maqruta#: pUqtada#kShAqstvame#ShAqmRuShi#rindrAsiq dhIra#: || 5.029.01
+anuq yadI#M maqruto# mandasAqnamArchaqnnindra#M papiqvAMsa#M suqtasya# |
+Ada#ttaq vajra#maqbhi yadahiqM hannaqpo yaqhvIra#sRujaqtsartaqvA u# || 5.029.02
+uqta bra#hmANo maruto me aqsyendraq: soma#syaq suShu#tasya peyA: |
+taddhi haqvyaM manu#Sheq gA avi#ndaqdahaqnnahi#M papiqvA~M indro# asya || 5.029.03
+Adroda#sI vitaqraM vi Shka#bhAyatsaMvivyAqnashchi#dbhiqyase# mRuqgaM ka#: |
+jiga#rtiqmindro# apaqjargu#rANaq: prati# shvaqsantaqmava# dAnaqvaM ha#n || 5.029.04
+adhaq kratvA# maghavaqntubhya#M deqvA anuq vishve# adadu: somaqpeya#m |
+yatsUrya#sya haqritaq: pata#ntI: puqra: saqtIrupa#rAq eta#sheq ka: || 5.029.05
+navaq yada#sya navaqtiM cha# bhoqgAnsAqkaM vajre#Na maqghavA# vivRuqshchat |
+archaqntIndra#M maqruta#: saqdhastheq traiShTu#bhenaq vacha#sA bAdhataq dyAm || 5.029.06
+sakhAq sakhye# apachaqttUya#maqgniraqsya kratvA# mahiqShA trI shaqtAni# |
+trI sAqkamindroq manu#Shaq: sarA#Msi suqtaM pi#badvRutraqhatyA#yaq soma#m || 5.029.07
+trI yachChaqtA ma#hiqShANAqmaghoq mAstrI sarA#Msi maqghavA# soqmyApA#: |
+kAqraM na vishve# ahvanta deqvA bharaqmindrA#yaq yadahi#M jaqghAna# || 5.029.08
+uqshanAq yatsa#haqsyaiq3q#rayA#taM gRuqhami#ndra jUjuvAqnebhiqrashvai#: |
+vaqnvAqno atra# saqratha#M yayAthaq kutse#na deqvairava#norhaq shuShNa#m || 5.029.09
+prAnyachchaqkrama#vRuhaq: sUrya#syaq kutsA#yAqnyadvari#voq yAta#ve&ka: |
+aqnAsoq dasyU#~MramRuNo vaqdhenaq ni du#ryoqNa A#vRuNag~gmRuqdhravA#cha: || 5.029.10
+stomA#sastvAq gauri#vIteravardhaqnnara#ndhayo vaidathiqnAyaq pipru#m |
+A tvAmRuqjishvA# saqkhyAya# chakreq pacha#npaqktIrapi#baq: soma#masya || 5.029.11
+nava#gvAsa: suqtaso#mAsaq indraqM dasha#gvAso aqbhya#rchantyaqrkai: |
+gavya#M chidUqrvama#piqdhAna#vantaqM taM chiqnnara#: shashamAqnA apa# vran || 5.029.12
+kaqtho nu teq pari# charANi viqdvAnvIqryA# maghavaqnyA chaqkartha# |
+yA choq nu navyA# kRuqNava#: shaviShThaq preduq tA te# viqdathe#Shu bravAma || 5.029.13
+eqtA vishvA# chakRuqvA~M i#ndraq bhUryapa#rIto jaqnuShA# vIqrye#Na |
+yA chiqnnu va#jrinkRuqNavo# dadhRuqShvAnna te# vaqrtA tavi#ShyA astiq tasyA#: || 5.029.14
+indraq brahma# kriqyamA#NA juShasvaq yA te# shaviShThaq navyAq aka#rma |
+vastre#va bhaqdrA sukRu#tA vasUqyU rathaqM na dhIraq: svapA# atakSham || 5.029.15
+
+kva1q# sya vIqra: ko a#pashyaqdindra#M suqkhara#thaqmIya#mAnaqM hari#bhyAm |
+yo rAqyA vaqjrI suqtaso#mamiqchChantadokoq gantA# puruhUqta UqtI || 5.030.01
+avA#chachakShaM paqdama#sya saqsvaruqgraM ni#dhAqturanvA#yamiqchChan |
+apRu#chChamaqnyA~M uqta te ma# AhuqrindraqM naro# bubudhAqnA a#shema || 5.030.02
+pra nu vaqyaM suqte yA te# kRuqtAnIndraq bravA#maq yAni# noq jujo#Sha: |
+vedaqdavi#dvA~jChRuqNava#chcha viqdvAnvaha#teq&yaM maqghavAq sarva#sena: || 5.030.03
+sthiqraM mana#shchakRuShe jAqta i#ndraq veShIdeko# yuqdhayeq bhUya#sashchit |
+ashmA#naM chiqchChava#sA didyutoq vi viqdo gavA#mUqrvamuqsriyA#NAm || 5.030.04
+paqro yattvaM pa#raqma Aqjani#ShThA: parAqvatiq shrutyaqM nAmaq bibhra#t |
+ata#shchiqdindrA#dabhayanta deqvA vishvA# aqpo a#jayaddAqsapa#tnI: || 5.030.05
+tubhyedeqte maqruta#: suqshevAq archa#ntyaqrkaM suqnvantyandha#: |
+ahi#mohAqnamaqpa AqshayA#naqM pra mAqyAbhi#rmAqyina#M sakShaqdindra#: || 5.030.06
+vi ShU mRudho# jaqnuShAq dAnaqminvaqnnahaqngavA# maghavansaMchakAqna: |
+atrA# dAqsasyaq namu#cheq: shiroq yadava#rtayoq mana#ve gAqtumiqchChan || 5.030.07
+yujaqM hi mAmakRu#thAq Adidi#ndraq shiro# dAqsasyaq namu#chermathAqyan |
+ashmA#naM chitsvaqryaM1q# varta#mAnaqM pra chaqkriye#vaq roda#sI maqrudbhya#: || 5.030.08
+striyoq hi dAqsa Ayu#dhAni chaqkre kiM mA# karannabaqlA a#syaq senA#: |
+aqntarhyakhya#duqbhe a#syaq dheneq athopaq praidyuqdhayeq dasyuqmindra#: || 5.030.09
+samatraq gAvoq&bhito#&navanteqheha# vaqtsairviyu#tAq yadAsa#n |
+saM tA indro# asRujadasya shAqkairyadIqM somA#saq: suShu#tAq ama#ndan || 5.030.10
+yadIqM somA# baqbhrudhU#tAq ama#ndaqnnaro#ravIdvRuShaqbha: sAda#neShu |
+puqraqMdaqra: pa#piqvA~M indro# asyaq punaqrgavA#madadAduqsriyA#NAm || 5.030.11
+bhaqdramiqdaM ruqshamA# agne akraqngavA#M chaqtvAriq dada#ta: saqhasrA# |
+RuqNaqMchaqyasyaq praya#tA maqghAniq pratya#grabhIShmaq nRuta#masya nRuqNAm || 5.030.12
+suqpesha#saqM mAva# sRujaqntyastaqM gavA#M saqhasrai# ruqshamA#so agne |
+tIqvrA indra#mamamandu: suqtAsoq&ktorvyu#ShTauq pari#takmyAyA: || 5.030.13
+auchChaqtsA rAtrIq pari#takmyAq yA~M Ru#NaMchaqye rAja#ni ruqshamA#nAm |
+atyoq na vAqjI raqghuraqjyamA#no baqbhrushchaqtvArya#sanatsaqhasrA# || 5.030.14
+chatu#:sahasraqM gavya#sya paqshva: pratya#grabhIShma ruqshame#Shvagne |
+ghaqrmashchi#ttaqpta: praqvRujeq ya AsI#dayaqsmayaqstamvAdA#maq viprA#: || 5.030.15
+
+indroq rathA#ya praqvata#M kRuNotiq yamaqdhyasthA#nmaqghavA# vAjaqyanta#m |
+yUqtheva# paqshvo vyu#noti goqpA ari#ShTo yAti prathaqma: siShA#san || 5.031.01
+A pra dra#va harivoq mA vi ve#naq: pisha#g~ggarAte aqbhi na#: sachasva |
+naqhi tvadi#ndraq vasyo# aqnyadastya#meqnA~Mshchiqjjani#vatashchakartha || 5.031.02
+udyatsahaq: saha#saq Aja#niShTaq dedi#ShTaq indra# indriqyANiq vishvA# |
+prAcho#dayatsuqdughA# vaqvre aqntarvi jyoti#ShA saMvavRuqtvattamo#&va: || 5.031.03
+ana#vasteq rathaqmashvA#ya takShaqntvaShTAq vajra#M puruhUta dyuqmanta#m |
+braqhmANaq indra#M maqhaya#nto aqrkairava#rdhayaqnnaha#yeq hantaqvA u# || 5.031.04
+vRuShNeq yatteq vRuSha#No aqrkamarchAqnindraq grAvA#Noq adi#ti: saqjoShA#: |
+aqnaqshvAsoq ye paqvayo#&raqthA indre#ShitA aqbhyava#rtantaq dasyU#n || 5.031.05
+pra teq pUrvA#Niq kara#NAni vochaqM pra nUta#nA maghavaqnyA chaqkartha# |
+shaktI#voq yadviqbharAq roda#sI uqbhe jaya#nnaqpo mana#veq dAnu#chitrA: || 5.031.06
+tadinnu teq kara#NaM dasma viqprAhiqM yadghnannojoq atrAmi#mIthA: |
+shuShNa#sya chiqtpari# mAqyA a#gRubhNA: prapiqtvaM yannapaq dasyU#~Mrasedha: || 5.031.07
+tvamaqpo yada#ve tuqrvashAqyAra#maya: suqdughA#: pAqra i#ndra |
+uqgrama#yAtaqmava#ho haq kutsaqM saM haq yadvA#muqshanAra#nta deqvA: || 5.031.08
+indrA#kutsAq vaha#mAnAq ratheqnA vAqmatyAq apiq karNe# vahantu |
+ni: ShI#maqdbhyo dhama#thoq ni: ShaqdhasthA#nmaqghono# hRuqdo va#rathaqstamA#Msi || 5.031.09
+vAta#sya yuqktAnsuqyuja#shchiqdashvA#nkaqvishchi#deqSho a#jagannavaqsyu: |
+vishve# teq atra# maqrutaq: sakhA#yaq indraq brahmA#Niq tavi#ShImavardhan || 5.031.10
+sUra#shchiqdrathaqM pari#takmyAyAqM pUrva#M karaqdupa#raM jUjuqvAMsa#m |
+bhara#chchaqkrameta#shaq: saM ri#NAti puqro dadha#tsaniShyatiq kratu#M na: || 5.031.11
+AyaM ja#nA abhiqchakShe# jagAqmendraq: sakhA#yaM suqtaso#mamiqchChan |
+vadaqngrAvAvaq vedi#M bhriyAteq yasya# jIqrama#dhvaqryavaqshchara#nti || 5.031.12
+ye chAqkana#nta chAqkana#ntaq nU te martA# amRutaq mo te aMhaq Ara#n |
+vAqvaqndhi yajyU#~Mruqta teShu# dheqhyojoq jane#Shuq yeShu# teq syAma# || 5.031.13
+
+ada#rdaqrutsaqmasRu#joq vi khAniq tvama#rNaqvAnba#dbadhAqnA~M a#ramNA: |
+maqhAnta#mindraq parva#taqM vi yadva: sRuqjo vi dhArAq ava# dAnaqvaM ha#n || 5.032.01
+tvamutsA#~M Ruqtubhi#rbadbadhAqnA~M ara#Mhaq Udhaq: parva#tasya vajrin |
+ahi#M chidugraq prayu#taqM shayA#naM jaghaqnvA~M i#ndraq tavi#ShImadhatthA: || 5.032.02
+tyasya# chinmahaqto nirmRuqgasyaq vadha#rjaghAnaq tavi#ShIbhiqrindra#: |
+ya ekaq ida#praqtirmanya#mAnaq Ada#smAdaqnyo a#janiShTaq tavyA#n || 5.032.03
+tyaM chi#deShAM svaqdhayAq mada#ntaM miqho napA#taM suqvRudha#M tamoqgAm |
+vRuSha#prabharmA dAnaqvasyaq bhAmaqM vajre#Na vaqjrI ni ja#ghAnaq shuShNa#m || 5.032.04
+tyaM chi#dasyaq kratu#bhiqrniSha#ttamamaqrmaNo# viqdadida#syaq marma# |
+yadI#M sukShatraq prabhRu#tAq mada#syaq yuyu#tsantaqM tama#si haqrmye dhA: || 5.032.05
+tyaM chi#diqtthA ka#tpaqyaM shayA#namasUqrye tama#si vAvRudhAqnam |
+taM chi#nmandAqno vRu#Shaqbha: suqtasyoqchchairindro# apaqgUryA# jaghAna || 5.032.06
+udyadindro# mahaqte dA#naqvAyaq vadhaqryami#ShTaq sahoq apra#tItam |
+yadIqM vajra#syaq prabhRu#tau daqdAbhaq vishva#sya jaqntora#dhaqmaM cha#kAra || 5.032.07
+tyaM chiqdarNa#M madhuqpaM shayA#namasiqnvaM vaqvraM mahyAda#duqgra: |
+aqpAda#maqtraM ma#haqtA vaqdhenaq ni du#ryoqNa A#vRuNag~gmRuqdhravA#cham || 5.032.08
+ko a#syaq shuShmaqM tavi#ShIM varAtaq ekoq dhanA# bharateq apra#tIta: |
+iqme chi#dasyaq jraya#soq nu deqvI indraqsyauja#so bhiqyasA# jihAte || 5.032.09
+nya#smai deqvI svadhi#tirjihItaq indrA#ya gAqturu#shaqtIva# yeme |
+saM yadojo# yuqvateq vishva#mAbhiqranu# svaqdhAvne# kShiqtayo# namanta || 5.032.10
+ekaqM nu tvAq satpa#tiqM pA~jcha#janyaM jAqtaM shRu#Nomi yaqshasaqM jane#Shu |
+taM me# jagRubhra Aqshasoq navi#ShThaM doqShA vastoqrhava#mAnAsaq indra#m || 5.032.11
+eqvA hi tvAmRu#tuqthA yAqtaya#ntaM maqghA vipre#bhyoq dada#taM shRuqNomi# |
+kiM te# braqhmANo# gRuhateq sakhA#yoq ye tvAqyA ni#daqdhu: kAma#mindra || 5.032.12
+
+mahi# maqhe taqvase# dIdhyeq nR^InindrA#yeqtthA taqvaseq ata#vyAn |
+yo a#smai sumaqtiM vAja#sAtau stuqto jane# samaqrya#shchiqketa# || 5.033.01
+sa tvaM na# indra dhiyasAqno aqrkairharI#NAM vRuShaqnyoktra#mashre: |
+yA iqtthA ma#ghavaqnnanuq joShaqM vakSho# aqbhi prArya: sa#kShiq janA#n || 5.033.02
+na te ta# indrAqbhya1q#smadRuqShvAyu#ktAso abraqhmatAq yadasa#n |
+tiShThAq rathaqmadhiq taM va#jrahaqstA raqshmiM de#va yamaseq svashva#: || 5.033.03
+puqrU yatta# indraq santyuqkthA gave# chaqkarthoqrvarA#suq yudhya#n |
+taqtaqkShe sUryA#ya chiqdoka#siq sve vRuShA# saqmatsu# dAqsasyaq nAma# chit || 5.033.04
+vaqyaM te ta# indraq ye chaq naraq: shardho# jaj~jAqnA yAqtAshchaq rathA#: |
+AsmA~jja#gamyAdahishuShmaq satvAq bhagoq na havya#: prabhRuqtheShuq chAru#: || 5.033.05
+paqpRuqkSheNya#mindraq tve hyojo# nRuqmNAni# cha nRuqtamA#noq ama#rta: |
+sa naq enI#M vasavAno raqyiM dAq: prArya stu#She tuvimaqghasyaq dAna#m || 5.033.06
+eqvA na# indroqtibhi#rava pAqhi gRu#Naqta: shU#ra kAqrUn |
+uqta tvachaqM dada#toq vAja#sAtau piprIqhi madhvaq: suShu#tasyaq chAro#: || 5.033.07
+uqta tye mA# paurukuqtsyasya# sUqrestraqsada#syorhiraqNinoq rarA#NA: |
+vaha#ntu mAq dashaq shyetA#so asya gairikShiqtasyaq kratu#bhiqrnu sa#shche || 5.033.08
+uqta tye mA# mAruqtAshva#syaq shoNAq: kratvA#maghAso viqdatha#sya rAqtau |
+saqhasrA# meq chyava#tAnoq dadA#na AnUqkamaqryo vapu#Sheq nArcha#t || 5.033.09
+uqta tye mA# dhvaqnya#syaq juShTA# lakShmaqNya#sya suqruchoq yatA#nA: |
+maqhnA rAqya: saqMvara#Nasyaq RuShe#rvraqjaM na gAvaq: praya#tAq api# gman || 5.033.10
+
+ajA#tashatrumaqjarAq sva#rvaqtyanu# svaqdhAmi#tA daqsmamI#yate |
+suqnota#naq pacha#taq brahma#vAhase puruShTuqtAya# prataqraM da#dhAtana || 5.034.01
+A ya: some#na jaqTharaqmapi#praqtAma#ndata maqghavAq madhvoq andha#sa: |
+yadI#M mRuqgAyaq hanta#ve maqhAva#dha: saqhasra#bhRuShTimuqshanA# vaqdhaM yama#t || 5.034.02
+yo a#smai ghraqMsa uqta vAq ya Udha#niq soma#M suqnotiq bhava#ti dyuqmA~M aha# |
+apA#pa shaqkrasta#taqnuShTi#mUhati taqnUshu#bhraM maqghavAq ya: ka#vAsaqkha: || 5.034.03
+yasyAva#dhItpiqtaraqM yasya# mAqtaraqM yasya# shaqkro bhrAta#raqM nAta# IShate |
+vetIdva#syaq praya#tA yataMkaqro na kilbi#ShAdIShateq vasva# Akaqra: || 5.034.04
+na paq~jchabhi#rdaqshabhi#rvaShTyAqrabhaqM nAsu#nvatA sachateq puShya#tA chaqna |
+jiqnAtiq veda#muqyA hanti# vAq dhuniqrA de#vaqyuM bha#jatiq goma#ti vraqje || 5.034.05
+viqtvakSha#Naq: samRu#tau chakramAsaqjo&su#nvatoq viShu#Na: sunvaqto vRuqdha: |
+indroq vishva#sya damiqtA viqbhISha#No yathAvaqshaM na#yatiq dAsaqmArya#: || 5.034.06
+samI#M paqNera#jatiq bhoja#naM muqShe vi dAqshuShe# bhajati sUqnaraqM vasu# |
+duqrge chaqna dhri#yateq vishvaq A puqru janoq yo a#syaq tavi#ShIqmachu#krudhat || 5.034.07
+saM yajjanau# suqdhanau# viqshvasha#rdhasAqvaveqdindro# maqghavAq goShu# shuqbhriShu# |
+yujaqM hya1q#nyamakRu#ta pravepaqnyudIqM gavya#M sRujateq satva#bhiqrdhuni#: || 5.034.08
+saqhaqsraqsAmAgni#veshiM gRuNISheq shatri#magna upaqmAM keqtumaqrya: |
+tasmAq Apa#: saqMyata#: pIpayantaq tasmi#nkShaqtramama#vattveqShama#stu || 5.034.09
+
+yasteq sAdhiqShTho&va#saq indraq kratuqShTamA bha#ra |
+aqsmabhya#M charShaNIqsahaqM sasniqM vAje#Shu duqShTara#m || 5.035.01
+yadi#ndra teq chata#sroq yachChU#raq santi# tiqsra: |
+yadvAq pa~jcha# kShitIqnAmavaqstatsu naq A bha#ra || 5.035.02
+A te&voq vare#NyaqM vRuSha#ntamasya hUmahe |
+vRuSha#jUtiqrhi ja#j~jiqSha AqbhUbhi#rindra tuqrvaNi#: || 5.035.03
+vRuShAq hyasiq rAdha#se jaj~jiqShe vRuShNi# teq shava#: |
+svakSha#traM te dhRuqShanmana#: satrAqhami#ndraq pauMsya#m || 5.035.04
+tvaM tami#ndraq martya#mamitraqyanta#madriva: |
+saqrvaqraqthA sha#takratoq ni yA#hi shavasaspate || 5.035.05
+tvAmidvRu#trahantamaq janA#so vRuqktaba#rhiSha: |
+uqgraM pUqrvIShu# pUqrvyaM hava#nteq vAja#sAtaye || 5.035.06
+aqsmAka#mindra duqShTara#M puroqyAvA#namAqjiShu# |
+saqyAvA#naqM dhane#dhane vAjaqyanta#mavAq ratha#m || 5.035.07
+aqsmAka#miqndrehi# noq ratha#mavAq pura#MdhyA |
+vaqyaM sha#viShThaq vArya#M diqvi shravo# dadhImahi diqvi stoma#M manAmahe || 5.035.08
+
+sa A ga#maqdindroq yo vasU#nAqM chike#taqddAtuqM dAma#no rayIqNAm |
+dhaqnvaqchaqro na vaMsa#gastRuShAqNashcha#kamAqna: pi#batu duqgdhamaqMshum || 5.036.01
+A teq hanU# hariva: shUraq shipreq ruhaqtsomoq na parva#tasya pRuqShThe |
+anu# tvA rAjaqnnarva#toq na hiqnvangIqrbhirma#dema puruhUtaq vishve# || 5.036.02
+chaqkraM na vRuqttaM pu#ruhUta vepateq mano# bhiqyA meq ama#teqrida#driva: |
+rathAqdadhi# tvA jariqtA sa#dAvRudha kuqvinnu sto#ShanmaghavanpurUqvasu#: || 5.036.03
+eqSha grAve#va jariqtA ta# iqndreya#rtiq vAcha#M bRuqhadA#shuShAqNa: |
+pra saqvyena# maghavaqnyaMsi# rAqya: pra da#kShiqNiddha#rivoq mA vi ve#na: || 5.036.04
+vRuShA# tvAq vRuSha#NaM vardhatuq dyaurvRuShAq vRuSha#bhyAM vahaseq hari#bhyAm |
+sa noq vRuShAq vRuSha#ratha: sushipraq vRuSha#kratoq vRuShA# vajriqnbhare# dhA: || 5.036.05
+yo rohi#tau vAqjinau# vAqjinI#vAntriqbhi: shaqtai: sacha#mAnAqvadi#ShTa |
+yUneq sama#smai kShiqtayo# namantAM shruqtara#thAya maruto duvoqyA || 5.036.06
+
+saM bhAqnunA# yatateq sUrya#syAqjuhvA#no ghRuqtapRu#ShThaq: sva~jchA#: |
+tasmAq amRu#dhrA uqShasoq vyu#chChAqnya indrA#ya suqnavAqmetyAha# || 5.037.01
+sami#ddhAgnirvanavatstIqrNaba#rhiryuqktagrA#vA suqtaso#mo jarAte |
+grAvA#Noq yasye#ShiqraM vadaqntyaya#dadhvaqryurhaqviShAvaq sindhu#m || 5.037.02
+vaqdhUriqyaM pati#miqchChantye#tiq ya IqM vahA#teq mahi#ShImiShiqrAm |
+Asya# shravasyAqdrathaq A cha# ghoShAtpuqrU saqhasrAq pari# vartayAte || 5.037.03
+na sa rAjA# vyathateq yasmiqnnindra#stIqvraM somaqM piba#tiq gosa#khAyam |
+A sa#tvaqnairaja#tiq hanti# vRuqtraM kSheti# kShiqtI: suqbhagoq nAmaq puShya#n || 5.037.04
+puShyAqtkSheme# aqbhi yoge# bhavAtyuqbhe vRutau# saMyaqtI saM ja#yAti |
+priqya: sUrye# priqyo aqgnA bha#vAtiq ya indrA#ya suqtaso#moq dadA#shat || 5.037.05
+
+uqroShTa# indraq rAdha#so viqbhvI rAqti: sha#takrato |
+adhA# no vishvacharShaNe dyuqmnA su#kShatra maMhaya || 5.038.01
+yadI#mindra shraqvAyyaqmiSha#M shaviShTha dadhiqShe |
+paqpraqthe dI#rghaqshrutta#maqM hira#NyavarNa duqShTara#m || 5.038.02
+shuShmA#soq ye te# adrivo meqhanA# ketaqsApa#: |
+uqbhA deqvAvaqbhiShTa#ye diqvashchaq gmashcha# rAjatha: || 5.038.03
+uqto no# aqsya kasya# chiqddakSha#syaq tava# vRutrahan |
+aqsmabhya#M nRuqmNamA bha#rAqsmabhya#M nRumaNasyase || 5.038.04
+nU ta# AqbhiraqbhiShTi#bhiqstavaq sharma#~jChatakrato |
+indraq syAma# sugoqpA: shUraq syAma# sugoqpA: || 5.038.05
+
+yadi#ndra chitra meqhanAstiq tvAdA#tamadriva: |
+rAdhaqstanno# vidadvasa ubhayAhaqstyA bha#ra || 5.039.01
+yanmanya#seq vare#Nyaqmindra# dyuqkShaM tadA bha#ra |
+viqdyAmaq tasya# te vaqyamakU#pArasya dAqvane# || 5.039.02
+yatte# diqtsu praqrAdhyaqM manoq asti# shruqtaM bRuqhat |
+tena# dRuqLhA chi#dadrivaq A vAja#M darShi sAqtaye# || 5.039.03
+maMhi#ShThaM vo maqghonAqM rAjA#naM charShaNIqnAm |
+indraqmupaq prasha#staye pUqrvIbhi#rjujuSheq gira#: || 5.039.04
+asmAq itkAvyaqM vacha# uqkthamindrA#yaq shaMsya#m |
+tasmA# uq brahma#vAhaseq giro# vardhaqntyatra#yoq gira#: shumbhaqntyatra#ya: || 5.039.05
+
+A yAqhyadri#bhi: suqtaM soma#M somapate piba |
+vRuSha#nnindraq vRuSha#bhirvRutrahantama || 5.040.01
+vRuShAq grAvAq vRuShAq madoq vRuShAq somo# aqyaM suqta: |
+vRuSha#nnindraq vRuSha#bhirvRutrahantama || 5.040.02
+vRuShA# tvAq vRuSha#NaM huveq vajri#~jchiqtrAbhi#rUqtibhi#: |
+vRuSha#nnindraq vRuSha#bhirvRutrahantama || 5.040.03
+RuqjIqShI vaqjrI vRu#Shaqbhastu#rAqShAT ChuqShmI rAjA# vRutraqhA so#maqpAvA# |
+yuqktvA hari#bhyAqmupa# yAsadaqrvAg~gmAdhya#Mdineq sava#ne matsaqdindra#: || 5.040.04
+yattvA# sUryaq sva#rbhAnuqstamaqsAvi#dhyadAsuqra: |
+akShe#traviqdyathA# muqgdho bhuva#nAnyadIdhayu: || 5.040.05
+sva#rbhAnoqradhaq yadi#ndra mAqyA aqvo diqvo varta#mAnA aqvAha#n |
+gUqLhaM sUryaqM tamaqsApa#vratena tuqrIye#Naq brahma#NAvindaqdatri#: || 5.040.06
+mA mAmiqmaM tavaq santa#matra iraqsyA druqgdho bhiqyasAq ni gA#rIt |
+tvaM miqtro a#si saqtyarA#dhAqstau meqhAva#taqM varu#Nashchaq rAjA# || 5.040.07
+grAvNo# braqhmA yu#yujAqna: sa#paqryankIqriNA# deqvAnnama#sopaqshikSha#n |
+atriq: sUrya#sya diqvi chakShuqrAdhAqtsva#rbhAnoqrapa# mAqyA a#ghukShat || 5.040.08
+yaM vai sUryaqM sva#rbhAnuqstamaqsAvi#dhyadAsuqra: |
+atra#yaqstamanva#vindannaqhya1q#nye asha#knuvan || 5.040.09
+
+ko nu vA#M mitrAvaruNAvRutAqyandiqvo vA# maqha: pArthi#vasya vAq de |
+Ruqtasya# vAq sada#siq trAsI#thAM no yaj~jAyaqte vA# pashuqSho na vAjA#n || 5.041.01
+te no# miqtro varu#No aryaqmAyurindra# RubhuqkShA maqruto# juShanta |
+namo#bhirvAq ye dadha#te suvRuqktiM stoma#M ruqdrAya# mIqLhuShe# saqjoShA#: || 5.041.02
+A vAqM yeShThA#shvinA huqvadhyaiq vAta#syaq patmaqnrathya#sya puqShTau |
+uqta vA# diqvo asu#rAyaq manmaq prAndhA#MsIvaq yajya#ve bharadhvam || 5.041.03
+pra saqkShaNo# diqvya: kaNva#hotA triqto diqva: saqjoShAq vAto# aqgni: |
+pUqShA bhaga#: prabhRuqthe viqshvabho#jA AqjiM na ja#gmurAqshva#shvatamA: || 5.041.04
+pra vo# raqyiM yuqktAshva#M bharadhvaM rAqya eShe&va#se dadhItaq dhI: |
+suqshevaq evai#raushiqjasyaq hotAq ye vaq evA# marutastuqrANA#m || 5.041.05
+pra vo# vAqyuM ra#thaqyuja#M kRuNudhvaqM pra deqvaM vipra#M paniqtAra#maqrkai: |
+iqShuqdhyava# RutaqsApaq: pura#MdhIqrvasvI#rnoq atraq patnIqrA dhiqye dhu#: || 5.041.06
+upa# vaq eSheq vandye#bhi: shUqShai: pra yaqhvI diqvashchiqtaya#dbhiraqrkai: |
+uqShAsAqnaktA# viqduShI#vaq vishvaqmA hA# vahatoq martyA#ya yaqj~jam || 5.041.07
+aqbhi vo# arche poqShyAva#toq nR^InvAstoqShpatiqM tvaShTA#raqM rarA#Na: |
+dhanyA# saqjoShA# dhiqShaNAq namo#bhiqrvanaqspatIq~MroSha#dhI rAqya eShe# || 5.041.08
+tuqje naqstaneq parva#tA: santuq svaita#voq ye vasa#voq na vIqrA: |
+paqniqta Aqptyo ya#jaqta: sadA# noq vardhA#nnaq: shaMsaqM naryo# aqbhiShTau# || 5.041.09
+vRuShNo# astoShi bhUqmyasyaq garbha#M triqto napA#tamaqpAM su#vRuqkti |
+gRuqNIqte aqgnireqtarIq na shUqShai: shoqchiShke#shoq ni ri#NAtiq vanA# || 5.041.10
+kaqthA maqhe ruqdriyA#ya bravAmaq kadrAqye chi#kiqtuSheq bhagA#ya |
+Apaq oSha#dhIruqta no#&vantuq dyaurvanA# giqrayo# vRuqkShake#shA: || 5.041.11
+shRuqNotu# na UqrjAM patiqrgiraq: sa nabhaqstarI#yA~M iShiqra: pari#jmA |
+shRuqNvantvApaq: puroq na shuqbhrA: pariq srucho# babRuhAqNasyAdre#: || 5.041.12
+viqdA chiqnnu ma#hAntoq ye vaq evAq bravA#ma dasmAq vAryaqM dadhA#nA: |
+vaya#shchaqna suqbhva1q# Ava# yanti kShuqbhA martaqmanu#yataM vadhaqsnai: || 5.041.13
+A daivyA#niq pArthi#vAniq janmAqpashchAchChAq suma#khAya vocham |
+vardha#ntAqM dyAvoq gira#shchaqndrAgrA# uqdA va#rdhantAmaqbhiShA#tAq arNA#: || 5.041.14
+paqdepa#de me jariqmA ni dhA#yiq varU#trI vA shaqkrA yA pAqyubhi#shcha |
+siSha#ktu mAqtA maqhI raqsA naq: smatsUqribhi#rRujuqhasta# Rujuqvani#: || 5.041.15
+kaqthA dA#shemaq nama#sA suqdAnU#nevaqyA maqrutoq achCho#ktauq prashra#vaso maqrutoq achCho#ktau |
+mA no&hi#rbuqdhnyo# riqShe dhA#daqsmAka#M bhUdupamAtiqvani#: || 5.041.16
+iti# chiqnnu praqjAyai# pashuqmatyaiq devA#soq vana#teq martyo# vaq A de#vAso vanateq martyo# va: |
+atrA# shiqvAM taqnvo# dhAqsimaqsyA jaqrAM chi#nmeq nirRu#tirjagrasIta || 5.041.17
+tAM vo# devA: sumaqtimUqrjaya#ntIqmiSha#mashyAma vasavaq: shasAq go: |
+sA na#: suqdAnu#rmRuqLaya#ntI deqvI pratiq drava#ntI suviqtAya# gamyA: || 5.041.18
+aqbhi naq iLA# yUqthasya# mAqtA smannaqdIbhi#ruqrvashI# vA gRuNAtu |
+uqrvashI# vA bRuhaddiqvA gRu#NAqnAbhyU#rNvAqnA pra#bhRuqthasyAqyo: || 5.041.19
+siSha#ktu na Urjaqvya#sya puqShTe: || 5.041.20
+
+pra shaMta#mAq varu#NaqM dIdhi#tIq gIrmiqtraM bhagaqmadi#tiM nUqnama#shyA: |
+pRuSha#dyoniq: pa~jcha#hotA shRuNoqtvatU#rtapanthAq asu#ro mayoqbhu: || 5.042.01
+prati# meq stomaqmadi#tirjagRubhyAtsUqnuM na mAqtA hRudya#M suqsheva#m |
+brahma# priqyaM deqvahi#taqM yadastyaqhaM miqtre varu#Neq yanma#yoqbhu || 5.042.02
+udI#raya kaqvita#maM kavIqnAmuqnattai#namaqbhi madhvA# ghRuqtena# |
+sa noq vasU#niq praya#tA hiqtAni# chaqndrANi# deqva: sa#viqtA su#vAti || 5.042.03
+sami#ndra Noq mana#sA neShiq gobhiq: saM sUqribhi#rharivaq: saM svaqsti |
+saM brahma#NA deqvahi#taqM yadastiq saM deqvAnA#M sumaqtyA yaqj~jiyA#nAm || 5.042.04
+deqvo bhaga#: saviqtA rAqyo aMshaq indro# vRuqtrasya# saqMjitoq dhanA#nAm |
+RuqbhuqkShA vAja# uqta vAq pura#Mdhiqrava#ntu no aqmRutA#sastuqrAsa#: || 5.042.05
+maqrutva#toq apra#tItasya jiqShNorajU#ryataq: pra bra#vAmA kRuqtAni# |
+na teq pUrve# maghavaqnnApa#rAsoq na vIqryaM1q# nUta#naq: kashchaqnApa# || 5.042.06
+upa# stuhi prathaqmaM ra#tnaqdheyaqM bRuhaqspati#M saniqtAraqM dhanA#nAm |
+ya: shaMsa#te stuvaqte shambha#viShTha: purUqvasu#rAqgamaqjjohu#vAnam || 5.042.07
+tavoqtibhiq: sacha#mAnAq ari#ShTAq bRuha#spate maqghavA#na: suqvIrA#: |
+ye a#shvaqdA uqta vAq santi# goqdA ye va#straqdA: suqbhagAqsteShuq rAya#: || 5.042.08
+viqsaqrmANa#M kRuNuhi viqttame#ShAqM ye bhuq~jjateq apRu#Nanto na uqkthai: |
+apa#vratAnprasaqve vA#vRudhAqnAnbra#hmaqdviShaq: sUryA#dyAvayasva || 5.042.09
+ya oha#te raqkShaso# deqvavI#tAvachaqkrebhiqstaM ma#rutoq ni yA#ta |
+yo vaq: shamI#M shashamAqnasyaq nindA#ttuqchChyAnkAmA#nkarate siShvidAqna: || 5.042.10
+tamu# ShTuhiq ya: sviqShu: suqdhanvAq yo vishva#syaq kShaya#ti bheShaqjasya# |
+yakShvA# maqhe sau#manaqsAya# ruqdraM namo#bhirdeqvamasu#raM duvasya || 5.042.11
+damU#naso aqpasoq ye suqhastAq vRuShNaq: patnI#rnaqdyo# vibhvataqShTA: |
+sara#svatI bRuhaddiqvota rAqkA da#shaqsyantI#rvarivasyantu shuqbhrA: || 5.042.12
+pra sU maqhe su#sharaqNAya# meqdhAM gira#M bhareq navya#sIqM jAya#mAnAm |
+ya A#haqnA du#hiqturvaqkShaNA#su rUqpA mi#nAqno akRu#NodiqdaM na#: || 5.042.13
+pra su#ShTuqti staqnaya#ntaM ruqvanta#miqLaspati#M jaritarnUqnama#shyA: |
+yo a#bdiqmA~M u#daniqmA~M iya#rtiq pra viqdyutAq roda#sI uqkShamA#Na: || 5.042.14
+eqSha stomoq mAru#taqM shardhoq achChA# ruqdrasya# sUqnU~Mryu#vaqnyU~Mruda#shyA: |
+kAmo# rAqye ha#vate mA svaqstyupa# stuhiq pRuSha#dashvA~M aqyAsa#: || 5.042.15
+praiSha stoma#: pRuthiqvImaqntari#kShaqM vanaqspatIq~MroSha#dhI rAqye a#shyA: |
+deqvode#va: suqhavo# bhUtuq mahyaqM mA no# mAqtA pRu#thiqvI du#rmaqtau dhA#t || 5.042.16
+uqrau de#vA anibAqdhe syA#ma || 5.042.17
+samaqshvinoqrava#sAq nUta#nena mayoqbhuvA# suqpraNI#tI gamema |
+A no# raqyiM va#hataqmota vIqrAnA vishvA#nyamRutAq saubha#gAni || 5.042.18
+
+A dheqnavaq: paya#sAq tUrNya#rthAq ama#rdhantIqrupa# no yantuq madhvA# |
+maqho rAqye bRu#haqtI: saqpta vipro# mayoqbhuvo# jariqtA jo#havIti || 5.043.01
+A su#ShTuqtI nama#sA vartaqyadhyaiq dyAvAq vAjA#ya pRuthiqvI amRu#dhre |
+piqtA mAqtA madhu#vachA: suqhastAq bhare#bhare no yaqshasA#vaviShTAm || 5.043.02
+adhva#ryavashchakRuqvAMsoq madhU#niq pra vAqyave# bharataq chAru# shuqkram |
+hote#va na: prathaqma: pA#hyaqsya devaq madhvo# rariqmA teq madA#ya || 5.043.03
+dashaq kShipo# yu~jjate bAqhU adriqM soma#syaq yA sha#miqtArA# suqhastA# |
+madhvoq rasa#M suqgabha#stirgiriqShThAM chani#shchadadduduhe shuqkramaqMshu: || 5.043.04
+asA#vi te jujuShAqNAyaq somaq: kratveq dakShA#ya bRuhaqte madA#ya |
+harIq rathe# suqdhurAq yoge# aqrvAgindra# priqyA kRu#Nuhi hUqyamA#na: || 5.043.05
+A no# maqhImaqrama#tiM saqjoShAq gnAM deqvIM nama#sA rAqtaha#vyAm |
+madhoqrmadA#ya bRuhaqtImRu#taqj~jAmAgne# vaha paqthibhi#rdevaqyAnai#: || 5.043.06
+aq~jjantiq yaM praqthaya#ntoq na viprA# vaqpAva#ntaqM nAgninAq tapa#nta: |
+piqturna puqtra uqpasiq preShThaq A ghaqrmo aqgnimRuqtaya#nnasAdi || 5.043.07
+achChA# maqhI bRu#haqtI shaMta#mAq gIrdUqto na ga#ntvaqshvinA# huqvadhyai# |
+maqyoqbhuvA# saqrathA yA#tamaqrvAggaqntaM niqdhiM dhura#mAqNirna nAbhi#m || 5.043.08
+pra tavya#soq nama#{}uktiM tuqrasyAqhaM pUqShNa uqta vAqyora#dikShi |
+yA rAdha#sA chodiqtArA# matIqnAM yA vAja#sya draviNoqdA uqta tman || 5.043.09
+A nAma#bhirmaqruto# vakShiq vishvAqnA rUqpebhi#rjAtavedo huvAqna: |
+yaqj~jaM giro# jariqtu: su#ShTuqtiM chaq vishve# ganta marutoq vishva# UqtI || 5.043.10
+A no# diqvo bRu#haqta: parva#tAqdA sara#svatI yajaqtA ga#ntu yaqj~jam |
+hava#M deqvI ju#juShAqNA ghRuqtAchI# shaqgmAM noq vAcha#mushaqtI shRu#Notu || 5.043.11
+A veqdhasaqM nIla#pRuShThaM bRuqhantaqM bRuhaqspatiqM sada#ne sAdayadhvam |
+sAqdadyo#niqM damaq A dI#diqvAMsaqM hira#NyavarNamaruqShaM sa#pema || 5.043.12
+A dha#rNaqsirbRuqhaddi#voq rarA#Noq vishve#bhirgaqntvoma#bhirhuvAqna: |
+gnA vasA#naq oSha#dhIqramRu#dhrastriqdhAtu#shRug~ggo vRuShaqbho va#yoqdhA: || 5.043.13
+mAqtuShpaqde pa#raqme shuqkra Aqyorvi#paqnyavo# rAspiqrAso# agman |
+suqshevyaqM nama#sA rAqtaha#vyAq: shishu#M mRujantyAqyavoq na vAqse || 5.043.14
+bRuqhadvayo# bRuhaqte tubhya#magne dhiyAqjuro# mithuqnAsa#: sachanta |
+deqvode#va: suqhavo# bhUtuq mahyaqM mA no# mAqtA pRu#thiqvI du#rmaqtau dhA#t || 5.043.15
+uqrau de#vA anibAqdhe syA#ma || 5.043.16
+samaqshvinoqrava#sAq nUta#nena mayoqbhuvA# suqpraNI#tI gamema |
+A no# raqyiM va#hataqmota vIqrAnA vishvA#nyamRutAq saubha#gAni || 5.043.17
+
+taM praqtnathA# pUqrvathA# viqshvatheqmathA# jyeqShThatA#tiM barhiqShada#M svaqrvida#m |
+praqtIqchIqnaM vRuqjana#M dohase giqrAshuM jaya#ntaqmanuq yAsuq vardha#se || 5.044.01
+shriqye suqdRushIqrupa#rasyaq yA: sva#rviqrocha#mAna: kaqkubhA#machoqdate# |
+suqgoqpA a#siq na dabhA#ya sukrato paqro mAqyAbhi#rRuqta A#saq nAma# te || 5.044.02
+atya#M haqvi: sa#chateq sachchaq dhAtuq chAri#ShTagAtuq: sa hotA# sahoqbhari#: |
+praqsarsrA#Noq anu# baqrhirvRuShAq shishuqrmadhyeq yuvAqjaro# viqsruhA# hiqta: || 5.044.03
+pra va# eqte suqyujoq yAma#nniqShTayeq nIchI#raqmuShmai# yaqmya# RutAqvRudha#: |
+suqyantu#bhi: sarvashAqsairaqbhIshu#bhiq: kriviqrnAmA#ni pravaqNe mu#ShAyati || 5.044.04
+saqMjarbhu#rANaqstaru#bhi: suteqgRubha#M vayAqkina#M chiqttaga#rbhAsu suqsvaru#: |
+dhAqraqvAqkeShvRu#jugAtha shobhaseq vardha#svaq patnI#raqbhi jIqvo a#dhvaqre || 5.044.05
+yAqdRugeqva dadRu#she tAqdRugu#chyateq saM ChAqyayA# dadhire siqdhrayAqpsvA |
+maqhImaqsmabhya#muruqShAmuqru jrayo# bRuqhatsuqvIraqmana#pachyutaqM saha#: || 5.044.06
+vetyagruqrjani#vAqnvA atiq spRudha#: samaryaqtA mana#sAq sUrya#: kaqvi: |
+ghraqMsaM rakSha#ntaqM pari# viqshvatoq gaya#maqsmAkaqM sharma# vanavaqtsvAva#su: || 5.044.07
+jyAyA#Msamaqsya yaqtuna#sya keqtuna# RuShisvaqraM cha#ratiq yAsuq nAma# te |
+yAqdRushmiqndhAyiq tama#paqsyayA# vidaqdya u# svaqyaM vaha#teq so ara#M karat || 5.044.08
+saqmuqdramA#sAqmava# tasthe agriqmA na ri#Shyatiq sava#naqM yasmiqnnAya#tA |
+atrAq na hArdi# kravaqNasya# rejateq yatrA# maqtirviqdyate# pUtaqbandha#nI || 5.044.09
+sa hi kShaqtrasya# manaqsasyaq chitti#bhirevAvaqdasya# yajaqtasyaq sadhre#: |
+aqvaqtsAqrasya# spRuNavAmaq raNva#bhiq: shavi#ShThaqM vAja#M viqduShA# chiqdardhya#m || 5.044.10
+shyeqna A#sAqmadi#ti: kaqkShyoq3q# mado# viqshvavA#rasya yajaqtasya# mAqyina#: |
+samaqnyama#nyamarthayaqntyeta#ve viqdurviqShANa#M pariqpAnaqmantiq te || 5.044.11
+saqdAqpRuqNo ya#jaqto vi dviSho# vadhIdbAhuvRuqkta: shru#taqvittaryo# vaq: sachA# |
+uqbhA sa varAq pratye#tiq bhAti# chaq yadI#M gaqNaM bhaja#te supraqyAva#bhi: || 5.044.12
+suqtaqmbhaqro yaja#mAnasyaq satpa#tiqrvishvA#sAqmUdhaq: sa dhiqyAmuqda~jcha#na: |
+bhara#ddheqnU rasa#vachChishriyeq payo#&nubruvAqNo adhye#tiq na svaqpan || 5.044.13
+yo jAqgAraq tamRucha#: kAmayanteq yo jAqgAraq tamuq sAmA#ni yanti |
+yo jAqgAraq tamaqyaM soma# Ahaq tavAqhama#smi saqkhye nyo#kA: || 5.044.14
+aqgnirjA#gAraq tamRucha#: kAmayanteq&gnirjA#gAraq tamuq sAmA#ni yanti |
+aqgnirjA#gAraq tamaqyaM soma# Ahaq tavAqhama#smi saqkhye nyo#kA: || 5.044.15
+
+viqdA diqvo viqShyannadri#muqkthairA#yaqtyA uqShaso# aqrchino# gu: |
+apA#vRuta vraqjinIqrutsva#rgAqdvi duroq mAnu#ShIrdeqva A#va: || 5.045.01
+vi sUryo# aqmatiqM na shriya#M sAqdorvAdgavA#M mAqtA jA#naqtI gA#t |
+dhanva#rNaso naqdya1q#: khAdo#arNAq sthUNe#vaq sumi#tA dRuMhataq dyau: || 5.045.02
+aqsmA uqkthAyaq parva#tasyaq garbho# maqhInA#M jaqnuShe# pUqrvyAya# |
+vi parva#toq jihI#taq sAdha#taq dyaurAqvivA#santo dasayantaq bhUma# || 5.045.03
+sUqktebhi#rvoq vacho#bhirdeqvaju#ShTaiqrindrAq nva1q#gnI ava#se huqvadhyai# |
+uqkthebhiqrhi ShmA# kaqvaya#: suyaqj~jA AqvivA#santo maqrutoq yaja#nti || 5.045.04
+etoq nva1q#dya suqdhyoq3q# bhavA#maq pra duqchChunA# minavAmAq varI#ya: |
+Aqre dveShA#Msi sanuqtarda#dhAqmAyA#maq prA~jchoq yaja#mAnaqmachCha# || 5.045.05
+etAq dhiya#M kRuqNavA#mA sakhAqyo&paq yA mAqtA~M Ru#Nuqta vraqjaM go: |
+yayAq manu#rvishishiqpraM jiqgAyaq yayA# vaqNigvaqg~gkurApAq purI#Sham || 5.045.06
+anU#noqdatraq hasta#yatoq adriqrArchaqnyenaq dasha# mAqso nava#gvA: |
+RuqtaM yaqtI saqramAq gA a#vindaqdvishvA#ni saqtyAg~ggi#rAshchakAra || 5.045.07
+vishve# aqsyA vyuShiq mAhi#nAyAq: saM yadgobhiqrag~ggi#rasoq nava#nta |
+utsa# AsAM paraqme saqdhastha# Ruqtasya# paqthA saqramA# vidaqdgA: || 5.045.08
+A sUryo# yAtu saqptAshvaq: kShetraqM yada#syorviqyA dI#rghayAqthe |
+raqghu: shyeqna: pa#tayaqdandhoq achChAq yuvA# kaqvirdI#dayaqdgoShuq gachCha#n || 5.045.09
+A sUryo# aruhachChuqkramarNo&yu#ktaq yaddhaqrito# vIqtapRu#ShThA: |
+uqdnA na nAva#manayantaq dhIrA# AshRuNvaqtIrApo# aqrvAga#tiShThan || 5.045.10
+dhiya#M vo aqpsu da#dhiShe svaqrShAM yayAta#raqndasha# mAqso nava#gvA: |
+aqyA dhiqyA syA#ma deqvago#pA aqyA dhiqyA tu#turyAqmAtyaMha#: || 5.045.11
+
+hayoq na viqdvA~M a#yuji svaqyaM dhuqri tAM va#hAmi praqtara#NImavaqsyuva#m |
+nAsyA# vashmi viqmuchaqM nAvRutaqM puna#rviqdvAnpaqtha: pu#raeqta Ruqju ne#Shati || 5.046.01
+agnaq indraq varu#Naq mitraq devAq: shardhaq: pra ya#ntaq mAru#toqta vi#ShNo |
+uqbhA nAsa#tyA ruqdro adhaq gnA: pUqShA bhagaq: sara#svatI juShanta || 5.046.02
+iqndrAqgnI miqtrAvaruqNAdi#tiqM sva#: pRuthiqvIM dyAM maqrutaq: parva#tA~M aqpa: |
+huqve viShNu#M pUqShaNaqM brahma#NaqspatiqM bhagaqM nu shaMsa#M saviqtAra#mUqtaye# || 5.046.03
+uqta noq viShNu#ruqta vAto# aqsridho# draviNoqdA uqta somoq maya#skarat |
+uqta Ruqbhava# uqta rAqye no# aqshvinoqta tvaShToqta vibhvAnu# maMsate || 5.046.04
+uqta tyannoq mAru#taqM shardhaq A ga#maddivikShaqyaM ya#jaqtaM baqrhirAqsade# |
+bRuhaqspatiq: sharma# pUqShota no# yamadvarUqthyaM1q# varu#No miqtro a#ryaqmA || 5.046.05
+uqta tye naq: parva#tAsa: sushaqstaya#: sudIqtayo# naqdya1q#strAma#Ne bhuvan |
+bhago# vibhaqktA shavaqsAvaqsA ga#maduruqvyachAq adi#ti: shrotu meq hava#m || 5.046.06
+deqvAnAqM patnI#rushaqtIra#vantu naq: prAva#ntu nastuqjayeq vAja#sAtaye |
+yA: pArthi#vAsoq yA aqpAmapi# vraqte tA no# devI: suhavAq: sharma# yachChata || 5.046.07
+uqta gnA vya#ntu deqvapa#tnIrindrAqNya1q#gnAyyaqshvinIq rAT |
+A roda#sI varuNAqnI shRu#Notuq vyantu# deqvIrya RuqturjanI#nAm || 5.046.08
+
+praqyuq~jjaqtI diqva e#ti bruvAqNA maqhI mAqtA du#hiqturboqdhaya#ntI |
+AqvivA#santI yuvaqtirma#nIqShA piqtRubhyaq A sada#neq johu#vAnA || 5.047.01
+aqjiqrAsaqstada#paq Iya#mAnA AtasthiqvAMso# aqmRuta#syaq nAbhi#m |
+aqnaqntAsa# uqravo# viqshvata#: sIqM pariq dyAvA#pRuthiqvI ya#ntiq panthA#: || 5.047.02
+uqkShA sa#muqdro a#ruqSha: su#paqrNa: pUrva#syaq yoni#M piqturA vi#vesha |
+madhye# diqvo nihi#taq: pRushniqrashmAq vi cha#krameq raja#saspAqtyantau# || 5.047.03
+chaqtvAra# IM bibhrati kShemaqyantoq dashaq garbha#M chaqrase# dhApayante |
+triqdhAta#va: paraqmA a#syaq gAvo# diqvashcha#rantiq pari# saqdyo antA#n || 5.047.04
+iqdaM vapu#rniqvacha#naM janAsaqshchara#ntiq yannaqdya#staqsthurApa#: |
+dve yadI#M bibhRuqto mAqturaqnye iqheha# jAqte yaqmyAq3q# saba#ndhU || 5.047.05
+vi ta#nvateq dhiyo# asmAq apA#Msiq vastrA# puqtrAya# mAqtaro# vayanti |
+uqpaqpraqkShe vRuSha#Noq moda#mAnA diqvaspaqthA vaqdhvo# yaqntyachCha# || 5.047.06
+tada#stu mitrAvaruNAq tada#gneq shaM yoraqsmabhya#miqdama#stu shaqstam |
+aqshIqmahi# gAqdhamuqta pra#tiqShThAM namo# diqve bRu#haqte sAda#nAya || 5.047.07
+
+kadu# priqyAyaq dhAmne# manAmaheq svakSha#trAyaq svaya#shase maqhe vaqyam |
+Aqmeqnyasyaq raja#soq yadaqbhra A~M aqpo vRu#NAqnA vi#taqnoti# mAqyinI# || 5.048.01
+tA a#tnata vaqyuna#M vIqrava#kShaNaM samAqnyA vRuqtayAq vishvaqmA raja#: |
+apoq apA#chIqrapa#rAq ape#jateq pra pUrvA#bhistirate devaqyurjana#: || 5.048.02
+A grAva#bhirahaqnye#bhiraqktubhiqrvari#ShThaqM vajraqmA ji#gharti mAqyini# |
+shaqtaM vAq yasya# praqcharaqnsve dame# saMvaqrtaya#ntoq vi cha# vartayaqnnahA# || 5.048.03
+tAma#sya rIqtiM pa#raqshori#vaq pratyanI#kamakhyaM bhuqje a#syaq varpa#sa: |
+sachAq yadi# pituqmanta#mivaq kShayaqM ratnaqM dadhA#tiq bhara#hUtaye viqshe || 5.048.04
+sa jiqhvayAq chatu#ranIka Ru~jjateq chAruq vasA#noq varu#Noq yata#nnaqrim |
+na tasya# vidma puruShaqtvatA# vaqyaM yatoq bhaga#: saviqtA dAtiq vArya#m || 5.048.05
+
+deqvaM vo# aqdya sa#viqtAraqmeSheq bhaga#M chaq ratna#M viqbhaja#ntamAqyo: |
+A vA#M narA purubhujA vavRutyAM diqvedi#ve chidashvinA sakhIqyan || 5.049.01
+prati# praqyANaqmasu#rasya viqdvAnsUqktairdeqvaM sa#viqtAra#M duvasya |
+upa# bruvItaq nama#sA vijAqna~jjyeShTha#M chaq ratna#M viqbhaja#ntamAqyo: || 5.049.02
+aqdaqtraqyA da#yateq vAryA#Ni pUqShA bhagoq adi#tiqrvasta# uqsra: |
+indroq viShNuqrvaru#No miqtro aqgnirahA#ni bhaqdrA ja#nayanta daqsmA: || 5.049.03
+tanno# anaqrvA sa#viqtA varU#thaqM tatsindha#va iqShaya#ntoq anu# gman |
+upaq yadvoche# adhvaqrasyaq hotA# rAqya: syA#maq pata#yoq vAja#ratnA: || 5.049.04
+pra ye vasu#bhyaq IvaqdA namoq durye miqtre varu#Ne sUqktavA#cha: |
+avaiqtvabhva#M kRuNuqtA varI#yo diqvaspRu#thiqvyorava#sA madema || 5.049.05
+
+vishvo# deqvasya# neqturmarto# vurIta saqkhyam |
+vishvo# rAqya i#Shudhyati dyuqmnaM vRu#NIta puqShyase# || 5.050.01
+te te# deva netaqrye cheqmA~M a#nuqshase# |
+te rAqyA te hyAq3q#pRucheq sache#mahi sachaqthyai#: || 5.050.02
+ato# naq A nR^Inati#thIqnataq: patnI#rdashasyata |
+Aqre vishva#M patheqShThAM dviqSho yu#yotuq yUyu#vi: || 5.050.03
+yatraq vahni#raqbhihi#to duqdravaqddroNya#: paqshu: |
+nRuqmaNA# vIqrapaqstyo&rNAq dhIre#vaq sani#tA || 5.050.04
+eqSha te# deva netAq rathaqspatiq: shaM raqyi: |
+shaM rAqye shaM svaqstaya# iShaqstuto# manAmahe devaqstuto# manAmahe || 5.050.05
+
+agne# suqtasya# pIqtayeq vishvaiqrUme#bhiqrA ga#hi |
+deqvebhi#rhaqvyadA#taye || 5.051.01
+Ruta#dhItayaq A ga#taq satya#dharmANo adhvaqram |
+aqgne: pi#bata jiqhvayA# || 5.051.02
+vipre#bhirvipra santya prAtaqryAva#bhiqrA ga#hi |
+deqvebhiq: soma#pItaye || 5.051.03
+aqyaM soma#shchaqmU suqto&ma#treq pari# Shichyate |
+priqya indrA#ya vAqyave# || 5.051.04
+vAyaqvA yA#hi vIqtaye# juShAqNo haqvyadA#taye |
+pibA# suqtasyAndha#so aqbhi praya#: || 5.051.05
+indra#shcha vAyaveShAM suqtAnA#M pIqtima#rhatha: |
+tA~jju#ShethAmareqpasA#vaqbhi praya#: || 5.051.06
+suqtA indrA#ya vAqyaveq somA#soq dadhyA#shira: |
+niqmnaM na ya#ntiq sindha#voq&bhi praya#: || 5.051.07
+saqjUrvishve#bhirdeqvebhi#raqshvibhyA#muqShasA# saqjU: |
+A yA#hyagne atriqvatsuqte ra#Na || 5.051.08
+saqjUrmiqtrAvaru#NAbhyAM saqjU: some#naq viShNu#nA |
+A yA#hyagne atriqvatsuqte ra#Na || 5.051.09
+saqjUrA#diqtyairvasu#bhi: saqjUrindre#Na vAqyunA# |
+A yA#hyagne atriqvatsuqte ra#Na || 5.051.10
+svaqsti no# mimItAmaqshvinAq bhaga#: svaqsti deqvyadi#tiranaqrvaNa#: |
+svaqsti pUqShA asu#ro dadhAtu na: svaqsti dyAvA#pRuthiqvI su#cheqtunA# || 5.051.11
+svaqstaye# vAqyumupa# bravAmahaiq soma#M svaqsti bhuva#nasyaq yaspati#: |
+bRuhaqspatiqM sarva#gaNaM svaqstaye# svaqstaya# AdiqtyAso# bhavantu na: || 5.051.12
+vishve# deqvA no# aqdyA svaqstaye# vaishvAnaqro vasu#raqgni: svaqstaye# |
+deqvA a#vantvRuqbhava#: svaqstaye# svaqsti no# ruqdra: pAqtvaMha#sa: || 5.051.13
+svaqsti mi#trAvaruNA svaqsti pa#thye revati |
+svaqsti naq indra#shchAqgnishcha# svaqsti no# adite kRudhi || 5.051.14
+svaqsti panthAqmanu# charema sUryAchandraqmasA#viva |
+punaqrdadaqtAghna#tA jAnaqtA saM ga#memahi || 5.051.15
+
+pra shyA#vAshva dhRuShNuqyArchA# maqrudbhiqrRukva#bhi: |
+ye a#droqghama#nuShvaqdhaM shravoq mada#nti yaqj~jiyA#: || 5.052.01
+te hi sthiqrasyaq shava#saq: sakhA#yaq: santi# dhRuShNuqyA |
+te yAmaqnnA dhRu#ShaqdvinaqstmanA# pAntiq shashva#ta: || 5.052.02
+te syaqndrAsoq nokShaNo&ti# Shkandantiq sharva#rI: |
+maqrutAqmadhAq maho# diqvi kShaqmA cha# manmahe || 5.052.03
+maqrutsu# vo dadhImahiq stoma#M yaqj~jaM cha# dhRuShNuqyA |
+vishveq ye mAnu#ShA yuqgA pAntiq martya#M riqSha: || 5.052.04
+arha#ntoq ye suqdAna#voq naroq asA#mishavasa: |
+pra yaqj~jaM yaqj~jiye#bhyo diqvo a#rchA maqrudbhya#: || 5.052.05
+A ruqkmairA yuqdhA nara# RuqShvA RuqShTIra#sRukShata |
+anve#nAq~M aha# viqdyuto# maqrutoq jajjha#tIriva bhAqnura#rtaq tmanA# diqva: || 5.052.06
+ye vA#vRuqdhantaq pArthi#vAq ya uqrAvaqntari#kShaq A |
+vRuqjane# vA naqdInA#M saqdhasthe# vA maqho diqva: || 5.052.07
+shardhoq mAru#taqmuchCha#Msa saqtyasha#vasaqmRubhva#sam |
+uqta smaq te shuqbhe naraq: pra syaqndrA yu#jataq tmanA# || 5.052.08
+uqta smaq te paru#ShNyAqmUrNA# vasata shuqndhyava#: |
+uqta paqvyA rathA#nAqmadri#M bhindaqntyoja#sA || 5.052.09
+Apa#thayoq vipa#thaqyo&nta#spathAq anu#pathA: |
+eqtebhiqrmahyaqM nAma#bhiryaqj~jaM vi#ShTAqra o#hate || 5.052.10
+adhAq naroq nyo#haqte&dhA# niqyuta# ohate |
+adhAq pArA#vatAq iti# chiqtrA rUqpANiq darshyA# || 5.052.11
+Chaqndaqstubha#: kubhaqnyavaq utsaqmA kIqriNo# nRutu: |
+te meq ke chiqnna tAqyavaq UmA# AsandRuqshi tviqShe || 5.052.12
+ya RuqShvA RuqShTivi#dyuta: kaqvayaq: santi# veqdhasa#: |
+tamRu#Sheq mAru#taM gaqNaM na#maqsyA raqmayA# giqrA || 5.052.13
+achCha# RuSheq mAru#taM gaqNaM dAqnA miqtraM na yoqShaNA# |
+diqvo vA# dhRuShNavaq oja#sA stuqtA dhIqbhiri#ShaNyata || 5.052.14
+nU ma#nvAqna e#ShAM deqvA~M achChAq na vaqkShaNA# |
+dAqnA sa#cheta sUqribhiqryAma#shrutebhiraq~jjibhi#: || 5.052.15
+pra ye me# bandhveqShe gAM vocha#nta sUqrayaq: pRushni#M vochanta mAqtara#m |
+adhA# piqtara#miqShmiNa#M ruqdraM vo#chantaq shikva#sa: || 5.052.16
+saqpta me# saqpta shAqkinaq eka#mekA shaqtA da#du: |
+yaqmunA#yAqmadhi# shruqtamudrAdhoq gavya#M mRujeq ni rAdhoq ashvya#M mRuje || 5.052.17
+
+ko ve#daq jAna#meShAqM ko vA# puqrA suqmneShvA#sa maqrutA#m |
+yadyu#yuqjre ki#lAqsya#: || 5.053.01
+aitAnrathe#Shu taqsthuShaq: ka: shu#shrAva kaqthA ya#yu: |
+kasmai# sasru: suqdAseq anvAqpayaq iLA#bhirvRuqShTaya#: saqha || 5.053.02
+te ma# Ahuqrya A#yaqyurupaq dyubhiqrvibhiqrmade# |
+naroq maryA# areqpasa# iqmAnpashyaqnniti# ShTuhi || 5.053.03
+ye aq~jjiShuq ye vAshI#Shuq svabhA#nava: sraqkShu ruqkmeShu# khAqdiShu# |
+shrAqyA rathe#Shuq dhanva#su || 5.053.04
+yuqShmAka#M smAq rathAq~M anu# muqde da#dhe maruto jIradAnava: |
+vRuqShTI dyAvo# yaqtIri#va || 5.053.05
+A yaM nara#: suqdAna#vo dadAqshuShe# diqva: koshaqmachu#chyavu: |
+vi paqrjanya#M sRujantiq roda#sIq anuq dhanva#nA yanti vRuqShTaya#: || 5.053.06
+taqtRuqdAqnA: sindha#vaq: kShoda#sAq rajaq: pra sa#srurdheqnavo# yathA |
+syaqnnA ashvA# iqvAdhva#no viqmocha#neq vi yadvarta#nta eqnya#: || 5.053.07
+A yA#ta maruto diqva Antari#kShAdaqmAduqta |
+mAva# sthAta parAqvata#: || 5.053.08
+mA vo# raqsAni#tabhAq kubhAq krumuqrmA vaq: sindhuqrni rI#ramat |
+mA vaq: pari# ShThAtsaqrayu#: purIqShiNyaqsme itsuqmnama#stu va: || 5.053.09
+taM vaq: shardhaqM rathA#nAM tveqShaM gaqNaM mAru#taqM navya#sInAm |
+anuq pra ya#nti vRuqShTaya#: || 5.053.10
+shardha#MshardhaM va eShAqM vrAta#MvrAtaM gaqNaMga#NaM sushaqstibhi#: |
+anu# krAmema dhIqtibhi#: || 5.053.11
+kasmA# aqdya sujA#tAya rAqtaha#vyAyaq pra ya#yu: |
+eqnA yAme#na maqruta#: || 5.053.12
+yena# toqkAyaq tana#yAya dhAqnyaM1q# bIjaqM vaha#dhveq akShi#tam |
+aqsmabhyaqM taddha#ttanaq yadvaq Ima#heq rAdho# viqshvAyuq saubha#gam || 5.053.13
+atI#yAma niqdastiqra: svaqstibhi#rhiqtvAvaqdyamarA#tI: |
+vRuqShTvI shaM yorApa# uqsri bhe#ShaqjaM syAma# maruta: saqha || 5.053.14
+suqdeqva: sa#mahAsati suqvIro# naro marutaq: sa martya#: |
+yaM trAya#dhveq syAmaq te || 5.053.15
+stuqhi bhoqjAnstu#vaqto a#syaq yAma#niq raNaqngAvoq na yava#se |
+yaqta: pUrvA#~M ivaq sakhIq~Mranu# hvaya giqrA gRu#NIhi kAqmina#: || 5.053.16
+
+pra shardhA#yaq mAru#tAyaq svabhA#nava iqmAM vAcha#manajA parvataqchyute# |
+ghaqrmaqstubhe# diqva A pRu#ShThaqyajva#ne dyuqmnashra#vaseq mahi# nRuqmNama#rchata || 5.054.01
+pra vo# marutastaviqShA u#daqnyavo# vayoqvRudho# ashvaqyujaq: pari#jraya: |
+saM viqdyutAq dadha#tiq vAsha#ti triqta: svaraqntyApoq&vanAq pari#jraya: || 5.054.02
+viqdyunma#hasoq naroq ashma#didyavoq vAta#tviSho maqruta#: parvataqchyuta#: |
+aqbdaqyA chiqnmuhuqrA hrA#dunIqvRuta# staqnaya#damA rabhaqsA udo#jasa: || 5.054.03
+vya1q#ktUnru#drAq vyahA#ni shikvasoq vya1q#ntari#kShaqM vi rajA#Msi dhUtaya: |
+vi yadajrAq~M aja#thaq nAva# IM yathAq vi duqrgANi# marutoq nAha# riShyatha || 5.054.04
+tadvIqrya#M vo maruto mahitvaqnaM dIqrghaM ta#tAnaq sUryoq na yoja#nam |
+etAq na yAmeq agRu#bhItashochiqSho&na#shvadAqM yannyayA#tanA giqrim || 5.054.05
+abhrA#jiq shardho# marutoq yada#rNaqsaM moSha#thA vRuqkShaM ka#paqneva# vedhasa: |
+adha# smA no aqrama#tiM sajoShasaqshchakShu#rivaq yantaqmanu# neShathA suqgam || 5.054.06
+na sa jI#yate marutoq na ha#nyateq na sre#dhatiq na vya#thateq na ri#Shyati |
+nAsyaq rAyaq upa# dasyantiq notayaq RuShi#M vAq yaM rAjA#naM vAq suShU#datha || 5.054.07
+niqyutva#nto grAmaqjitoq yathAq naro#&ryaqmaNoq na maqruta#: kabaqndhina#: |
+pinvaqntyutsaqM yadiqnAsoq asva#raqnvyu#ndanti pRuthiqvIM madhvoq andha#sA || 5.054.08
+praqvatva#tIqyaM pRu#thiqvI maqrudbhya#: praqvatva#tIq dyaurbha#vati praqyadbhya#: |
+praqvatva#tI: paqthyA# aqntari#kShyA: praqvatva#ntaq: parva#tA jIqradA#nava: || 5.054.09
+yanma#ruta: sabharasa: svarNaraq: sUryaq udi#teq mada#thA divo nara: |
+na vo&shvA#: shrathayaqntAhaq sisra#ta: saqdyo aqsyAdhva#na: pAqrama#shnutha || 5.054.10
+aMse#Shu va RuqShTaya#: paqtsu khAqdayoq vakSha#ssu ruqkmA ma#rutoq ratheq shubha#: |
+aqgnibhrA#jaso viqdyutoq gabha#styoq: shiprA#: shIqrShasuq vita#tA hiraqNyayI#: || 5.054.11
+taM nAka#maqryo agRu#bhItashochiShaqM rushaqtpippa#laM marutoq vi dhU#nutha |
+sama#chyanta vRuqjanAti#tviShantaq yatsvara#ntiq ghoShaqM vita#tamRutAqyava#: || 5.054.12
+yuqShmAda#ttasya maruto vichetaso rAqya: syA#ma raqthyoq3q# vaya#svata: |
+na yo yuchCha#ti tiqShyoq3q# yathA# diqvoq3q#&sme rA#ranta maruta: sahaqsriNa#m || 5.054.13
+yUqyaM raqyiM ma#ruta spAqrhavI#raM yUqyamRuShi#mavathaq sAma#vipram |
+yUqyamarva#ntaM bharaqtAyaq vAja#M yUqyaM dha#tthaq rAjA#naM shruShTiqmanta#m || 5.054.14
+tadvo# yAmiq dravi#NaM sadyaUtayoq yenAq sva1q#rNa taqtanA#maq nR^I~Mraqbhi |
+iqdaM su me# maruto haryatAq vachoq yasyaq tare#maq tara#sA shaqtaM himA#: || 5.054.15
+
+praya#jyavo maqrutoq bhrAja#dRuShTayo bRuqhadvayo# dadhire ruqkmava#kShasa: |
+Iya#nteq ashvai#: suqyame#bhirAqshubhiq: shubha#M yAqtAmanuq rathA# avRutsata || 5.055.01
+svaqyaM da#dhidhveq tavi#ShIqM yathA# viqda bRuqhanma#hAnta urviqyA vi rA#jatha |
+uqtAntari#kShaM mamireq vyoja#sAq shubha#M yAqtAmanuq rathA# avRutsata || 5.055.02
+sAqkaM jAqtA: suqbhva#: sAqkamu#kShiqtA: shriqye chiqdA pra#taqraM vA#vRudhuqrnara#: |
+viqroqkiNaq: sUrya#syeva raqshmayaq: shubha#M yAqtAmanuq rathA# avRutsata || 5.055.03
+AqbhUqSheNya#M vo maruto mahitvaqnaM di#dRuqkSheNyaqM sUrya#syevaq chakSha#Nam |
+uqto aqsmA~M a#mRutaqtve da#dhAtanaq shubha#M yAqtAmanuq rathA# avRutsata || 5.055.04
+udI#rayathA maruta: samudraqto yUqyaM vRuqShTiM va#rShayathA purIShiNa: |
+na vo# dasrAq upa# dasyanti dheqnavaq: shubha#M yAqtAmanuq rathA# avRutsata || 5.055.05
+yadashvA#ndhUqrShu pRuSha#tIqrayu#gdhvaM hiraqNyayAqnpratyatkAq~M amu#gdhvam |
+vishvAq itspRudho# marutoq vya#syathaq shubha#M yAqtAmanuq rathA# avRutsata || 5.055.06
+na parva#tAq na naqdyo# varanta voq yatrAchi#dhvaM marutoq gachChaqtheduq tat |
+uqta dyAvA#pRuthiqvI yA#thanAq pariq shubha#M yAqtAmanuq rathA# avRutsata || 5.055.07
+yatpUqrvyaM ma#rutoq yachchaq nUta#naqM yaduqdyate# vasavoq yachcha# shaqsyate# |
+vishva#syaq tasya# bhavathAq nave#dasaq: shubha#M yAqtAmanuq rathA# avRutsata || 5.055.08
+mRuqLata# no marutoq mA va#dhiShTanAqsmabhyaqM sharma# bahuqlaM vi ya#ntana |
+adhi# stoqtrasya# saqkhyasya# gAtanaq shubha#M yAqtAmanuq rathA# avRutsata || 5.055.09
+yUqyamaqsmAnna#yataq vasyoq achChAq nira#Mhaqtibhyo# maruto gRuNAqnA: |
+juqShadhva#M no haqvyadA#tiM yajatrA vaqyaM syA#maq pata#yo rayIqNAm || 5.055.10
+
+agneq shardha#ntaqmA gaqNaM piqShTaM ruqkmebhi#raq~jjibhi#: |
+visho# aqdya maqrutAqmava# hvaye diqvashchi#drochaqnAdadhi# || 5.056.01
+yathA# chiqnmanya#se hRuqdA tadinme# jagmurAqshasa#: |
+ye teq nedi#ShThaqM hava#nAnyAqgamaqntAnva#rdha bhIqmasa#MdRusha: || 5.056.02
+mIqLhuShma#tIva pRuthiqvI parA#hatAq mada#ntyetyaqsmadA |
+RukShoq na vo# marutaq: shimI#vAq~M amo# duqdhro gauri#va bhImaqyu: || 5.056.03
+ni ye riqNantyoja#sAq vRuthAq gAvoq na duqrdhura#: |
+ashmA#naM chitsvaqryaM1q# parva#taM giqriM pra chyA#vayantiq yAma#bhi: || 5.056.04
+utti#ShTha nUqname#ShAqM stomaiq: samu#kShitAnAm |
+maqrutA#M puruqtamaqmapU#rvyaqM gavAqM sarga#miva hvaye || 5.056.05
+yuqg~ggdhvaM hyaru#ShIq rathe# yuqg~ggdhvaM rathe#Shu roqhita#: |
+yuqg~ggdhvaM harI# ajiqrA dhuqri voLha#veq vahi#ShThA dhuqri voLha#ve || 5.056.06
+uqta sya vAqjya#ruqShastu#viqShvaNi#riqha sma# dhAyi darshaqta: |
+mA voq yAme#Shu marutashchiqraM ka#raqtpra taM rathe#Shu chodata || 5.056.07
+rathaqM nu mAru#taM vaqyaM shra#vaqsyumA hu#vAmahe |
+A yasmi#ntaqsthau suqraNA#niq bibhra#tIq sachA# maqrutsu# rodaqsI || 5.056.08
+taM vaq: shardha#M ratheqshubha#M tveqShaM pa#naqsyumA hu#ve |
+yasmiqnsujA#tA suqbhagA# mahIqyateq sachA# maqrutsu# mILhuqShI || 5.056.09
+
+A ru#drAsaq indra#vanta: saqjoSha#soq hira#NyarathA: suviqtAya# gantana |
+iqyaM vo# aqsmatprati# haryate maqtistRuqShNajeq na diqva utsA# udaqnyave# || 5.057.01
+vAshI#manta RuShTiqmanto# manIqShiNa#: suqdhanvA#naq iShu#manto niShaqg~ggiNa#: |
+svashvA# stha suqrathA#: pRushnimAtara: svAyuqdhA ma#ruto yAthanAq shubha#m || 5.057.02
+dhUqnuqtha dyAM parva#tAndAqshuSheq vasuq ni voq vanA# jihateq yAma#no bhiqyA |
+koqpaya#tha pRuthiqvIM pRu#shnimAtara: shuqbhe yadu#grAq: pRuSha#tIqrayu#gdhvam || 5.057.03
+vAta#tviSho maqruto# vaqrShani#rNijo yaqmA i#vaq susa#dRusha: suqpesha#sa: |
+piqshag~ggA#shvA aruqNAshvA# areqpasaq: pratva#kShaso mahiqnA dyauri#voqrava#: || 5.057.04
+puqruqdraqpsA a#~jjiqmanta#: suqdAna#vastveqShasa#MdRusho anavaqbhrarA#dhasa: |
+suqjAqtAso# jaqnuShA# ruqkmava#kShaso diqvo aqrkA aqmRutaqM nAma# bhejire || 5.057.05
+RuqShTayo# vo marutoq aMsa#yoqradhiq sahaq ojo# bAqhvorvoq bala#M hiqtam |
+nRuqmNA shIqrShasvAyu#dhAq rathe#Shu voq vishvA# vaq: shrIradhi# taqnUShu# pipishe || 5.057.06
+gomaqdashvA#vaqdratha#vatsuqvIra#M chaqndravaqdrAdho# maruto dadA na: |
+prasha#stiM na: kRuNuta rudriyAso bhakShIqya vo&va#soq daivya#sya || 5.057.07
+haqye naroq maru#to mRuqLatA# naqstuvI#maghAsoq amRu#tAq Ruta#j~jA: |
+satya#shrutaq: kava#yoq yuvA#noq bRuha#dgirayo bRuqhaduqkShamA#NA: || 5.057.08
+
+tamu# nUqnaM tavi#ShImantameShAM stuqShe gaqNaM mAru#taqM navya#sInAm |
+ya Aqshva#shvAq ama#vaqdvaha#nta uqteshi#re aqmRuta#sya svaqrAja#: || 5.058.01
+tveqShaM gaqNaM taqvasaqM khAdi#hastaqM dhuni#vrataM mAqyinaqM dAti#vAram |
+maqyoqbhuvoq ye ami#tA mahiqtvA vanda#sva vipra tuviqrAdha#soq nR^In || 5.058.02
+A vo# yantUdavAqhAso# aqdya vRuqShTiM ye vishve# maqruto# juqnanti# |
+aqyaM yo aqgnirma#rutaq: sami#ddha eqtaM ju#ShadhvaM kavayo yuvAna: || 5.058.03
+yUqyaM rAjA#naqmiryaqM janA#ya vibhvataqShTaM ja#nayathA yajatrA: |
+yuqShmade#ti muShTiqhA bAqhujU#to yuqShmatsada#shvo maruta: suqvIra#: || 5.058.04
+aqrA iqvedacha#ramAq ahe#vaq prapra# jAyanteq aka#vAq maho#bhi: |
+pRushne#: puqtrA u#paqmAsoq rabhi#ShThAq: svayA# maqtyA maqrutaq: saM mi#mikShu: || 5.058.05
+yatprAyA#siShTaq pRuSha#tIbhiqrashvai#rvILupaqvibhi#rmarutoq rathe#bhi: |
+kShoda#ntaq Apo# riNaqte vanAqnyavoqsriyo# vRuShaqbha: kra#ndatuq dyau: || 5.058.06
+prathi#ShTaq yAma#npRuthiqvI chi#deShAqM bharte#vaq garbhaqM svamichChavo# dhu: |
+vAtAqnhyashvA#ndhuqryA#yuyuqjre vaqrShaM sveda#M chakrire ruqdriyA#sa: || 5.058.07
+haqye naroq maru#to mRuqLatA# naqstuvI#maghAsoq amRu#tAq Ruta#j~jA: |
+satya#shrutaq: kava#yoq yuvA#noq bRuha#dgirayo bRuqhaduqkShamA#NA: || 5.058.08
+
+pra vaq spaLa#kransuviqtAya# dAqvane&rchA# diqve pra pRu#thiqvyA RuqtaM bha#re |
+uqkShanteq ashvAqntaru#Shantaq A rajo&nuq svaM bhAqnuM shra#thayante arNaqvai: || 5.059.01
+amA#deShAM bhiqyasAq bhUmi#rejatiq naurna pUqrNA kSha#ratiq vyathi#ryaqtI |
+dUqreqdRushoq ye chiqtaya#ntaq ema#bhiraqntarmaqhe viqdathe# yetireq nara#: || 5.059.02
+gavA#miva shriqyaseq shRug~gga#muttaqmaM sUryoq na chakShUq raja#so viqsarja#ne |
+atyA# iva suqbhva1q#shchAra#va sthanaq maryA# iva shriqyase# chetathA nara: || 5.059.03
+ko vo# maqhAnti# mahaqtAmuda#shnavaqtkaskAvyA# marutaq: ko haq pauMsyA# |
+yUqyaM haq bhUmi#M kiqraNaqM na re#jathaq pra yadbhara#dhve suviqtAya# dAqvane# || 5.059.04
+ashvA# iqveda#ruqShAsaq: saba#ndhavaq: shUrA# iva praqyudhaq: prota yu#yudhu: |
+maryA# iva suqvRudho# vAvRudhuqrnaraq: sUrya#syaq chakShuq: pra mi#nanti vRuqShTibhi#: || 5.059.05
+te a#jyeqShThA aka#niShThAsa uqdbhido&ma#dhyamAsoq maha#sAq vi vA#vRudhu: |
+suqjAqtAso# jaqnuShAq pRushni#mAtaro diqvo maryAq A noq achChA# jigAtana || 5.059.06
+vayoq na ye shreNI#: paqpturojaqsAntA#ndiqvo bRu#haqta: sAnu#naqspari# |
+ashvA#sa eShAmuqbhayeq yathA# viqdu: pra parva#tasya nabhaqnU~Mra#chuchyavu: || 5.059.07
+mimA#tuq dyauradi#tirvIqtaye# naq: saM dAnu#chitrA uqShaso# yatantAm |
+Achu#chyavurdiqvyaM kosha#meqta RuShe# ruqdrasya# maqruto# gRuNAqnA: || 5.059.08
+
+ILe# aqgniM svava#saqM namo#bhiriqha pra#saqtto vi cha#yatkRuqtaM na#: |
+rathai#rivaq pra bha#re vAjaqyadbhi#: pradakShiqNinmaqrutAqM stoma#mRudhyAm || 5.060.01
+A ye taqsthu: pRuSha#tIShu shruqtAsu# suqkheShu# ruqdrA maqrutoq rathe#Shu |
+vanA# chidugrA jihateq ni vo# bhiqyA pRu#thiqvI chi#drejateq parva#tashchit || 5.060.02
+parva#tashchiqnmahi# vRuqddho bi#bhAya diqvashchiqtsAnu# rejata svaqne va#: |
+yatkrILa#tha maruta RuShTiqmantaq Apa# iva saqdhrya#~jcho dhavadhve || 5.060.03
+vaqrA iqvedrai#vaqtAsoq hira#Nyairaqbhi svaqdhAbhi#staqnva#: pipishre |
+shriqye shreyA#Msastaqvasoq rathe#Shu saqtrA mahA#Msi chakrire taqnUShu# || 5.060.04
+aqjyeqShThAsoq aka#niShThAsa eqte saM bhrAta#ro vAvRudhuq: saubha#gAya |
+yuvA# piqtA svapA# ruqdra e#ShAM suqdughAq pRushni#: suqdinA# maqrudbhya#: || 5.060.05
+yadu#ttaqme ma#ruto madhyaqme vAq yadvA#vaqme su#bhagAso diqvi ShTha |
+ato# no rudrA uqta vAq nva1q#syAgne# viqttAddhaqviShoq yadyajA#ma || 5.060.06
+aqgnishchaq yanma#ruto vishvavedaso diqvo vaha#dhvaq utta#rAqdadhiq ShNubhi#: |
+te ma#ndasAqnA dhuna#yo rishAdaso vAqmaM dha#ttaq yaja#mAnAya sunvaqte || 5.060.07
+agne# maqrudbhi#: shuqbhaya#dbhiqrRukva#bhiq: soma#M piba mandasAqno ga#Naqshribhi#: |
+pAqvaqkebhi#rvishvamiqnvebhi#rAqyubhiqrvaishvA#nara praqdivA# keqtunA# saqjU: || 5.060.08
+
+ke ShThA# naraq: shreShTha#tamAq ya eka#eka Ayaqya |
+paqraqmasyA#: parAqvata#: || 5.061.01
+kva1q# vo&shvAq: kvAq3q#bhIsha#va: kaqthaM she#ka kaqthA ya#ya |
+pRuqShThe sado# naqsoryama#: || 5.061.02
+jaqghaneq choda# eShAqM vi saqkthAniq naro# yamu: |
+puqtraqkRuqthe na jana#ya: || 5.061.03
+parA# vIrAsa etanaq maryA#soq bhadra#jAnaya: |
+aqgniqtapoq yathAsa#tha || 5.061.04
+sanaqtsAshvya#M paqshumuqta gavya#M shaqtAva#yam |
+shyAqvAshva#stutAyaq yA dorvIqrAyo#paqbarbRu#hat || 5.061.05
+uqta tvAq strI shashI#yasI puqMso bha#vatiq vasya#sI |
+ade#vatrAdarAqdhasa#: || 5.061.06
+vi yA jAqnAtiq jasu#riqM vi tRuShya#ntaqM vi kAqmina#m |
+deqvaqtrA kRu#Nuqte mana#: || 5.061.07
+uqta ghAq nemoq astu#taq: pumAq~M iti# bruve paqNi: |
+sa vaira#deyaq itsaqma: || 5.061.08
+uqta me#&rapadyuvaqtirma#maqnduShIq prati# shyAqvAya# vartaqnim |
+vi rohi#tA purumIqLhAya# yematuqrviprA#ya dIqrghaya#shase || 5.061.09
+yo me# dhenUqnAM shaqtaM vaida#dashviqryathAq dada#t |
+taqraqnta i#va maqMhanA# || 5.061.10
+ya IqM vaha#nta Aqshubhiq: piba#nto madiqraM madhu# |
+atraq shravA#Msi dadhire || 5.061.11
+yeShA#M shriqyAdhiq roda#sI viqbhrAja#nteq ratheqShvA |
+diqvi ruqkma i#voqpari# || 5.061.12
+yuvAq sa mAru#to gaqNastveqShara#thoq ane#dya: |
+shuqbhaqMyAvApra#tiShkuta: || 5.061.13
+ko ve#da nUqname#ShAqM yatrAq mada#ntiq dhUta#ya: |
+RuqtajA#tA areqpasa#: || 5.061.14
+yUqyaM marta#M vipanyava: praNeqtAra# iqtthA dhiqyA |
+shrotA#roq yAma#hUtiShu || 5.061.15
+te noq vasU#niq kAmyA# purushchaqndrA ri#shAdasa: |
+A ya#j~jiyAso vavRuttana || 5.061.16
+eqtaM meq stoma#mUrmye dAqrbhyAyaq parA# vaha |
+giro# devi raqthIri#va || 5.061.17
+uqta me# vochatAqditi# suqtaso#meq ratha#vItau |
+na kAmoq apa# veti me || 5.061.18
+eqSha kShe#tiq ratha#vItirmaqghavAq goma#tIqranu# |
+parva#teqShvapa#shrita: || 5.061.19
+
+Ruqtena# Ruqtamapi#hitaM dhruqvaM vAqM sUrya#syaq yatra# vimuqchantyashvA#n |
+dasha# shaqtA saqha ta#sthuqstadeka#M deqvAnAqM shreShThaqM vapu#ShAmapashyam || 5.062.01
+tatsu vA#M mitrAvaruNA mahiqtvamIqrmA taqsthuShIqraha#bhirduduhre |
+vishvA#: pinvathaq: svasa#rasyaq dhenAq anu# vAqmeka#: paqvirA va#varta || 5.062.02
+adhA#rayataM pRuthiqvImuqta dyAM mitra#rAjAnA varuNAq maho#bhi: |
+vaqrdhaya#taqmoSha#dhIq: pinva#taqM gA ava# vRuqShTiM sRu#jataM jIradAnU || 5.062.03
+A vAqmashvA#sa: suqyujo# vahantu yaqtara#shmayaq upa# yantvaqrvAk |
+ghRuqtasya# niqrNiganu# vartate vAqmupaq sindha#va: praqdivi# kSharanti || 5.062.04
+anu# shruqtAmaqmatiqM vardha#duqrvIM baqrhiri#vaq yaju#ShAq rakSha#mANA |
+nama#svantA dhRutadaqkShAdhiq garteq mitrAsA#the varuqNeLA#svaqnta: || 5.062.05
+akra#vihastA suqkRute# paraqspA yaM trAsA#the varuqNeLA#svaqnta: |
+rAjA#nA kShaqtramahRu#NIyamAnA saqhasra#sthUNaM bibhRutha: saqha dvau || 5.062.06
+hira#NyanirNiqgayo# asyaq sthUNAq vi bhrA#jate diqvya1q#shvAja#nIva |
+bhaqdre kShetreq nimi#tAq tilvi#le vA saqnemaq madhvoq adhi#gartyasya || 5.062.07
+hira#NyarUpamuqShasoq vyu#ShTAqvaya#sthUNaqmudi#tAq sUrya#sya |
+A ro#hatho varuNa mitraq gartaqmata#shchakShAtheq adi#tiqM diti#M cha || 5.062.08
+yadbaMhi#ShThaqM nAtiqvidhe# sudAnUq achChi#draqM sharma# bhuvanasya gopA |
+tena# no mitrAvaruNAvaviShTaqM siShA#santo jigIqvAMsa#: syAma || 5.062.09
+
+Ruta#sya gopAqvadhi# tiShThathoq rathaqM satya#dharmANA paraqme vyo#mani |
+yamatra# mitrAvaruqNAva#tho yuqvaM tasmai# vRuqShTirmadhu#matpinvate diqva: || 5.063.01
+saqmrAjA#vaqsya bhuva#nasya rAjathoq mitrA#varuNA viqdathe# svaqrdRushA# |
+vRuqShTiM vAqM rAdho# amRutaqtvamI#maheq dyAvA#pRuthiqvI vi cha#ranti taqnyava#: || 5.063.02
+saqmrAjA# uqgrA vRu#ShaqbhA diqvaspatI# pRuthiqvyA miqtrAvaru#NAq vicha#rShaNI |
+chiqtrebhi#raqbhrairupa# tiShThathoq ravaqM dyAM va#rShayathoq asu#rasya mAqyayA# || 5.063.03
+mAqyA vA#M mitrAvaruNA diqvi shriqtA sUryoq jyoti#shcharati chiqtramAyu#dham |
+tamaqbhreNa# vRuqShTyA gU#hatho diqvi parja#nya draqpsA madhu#manta Irate || 5.063.04
+ratha#M yu~jjate maqruta#: shuqbhe suqkhaM shUroq na mi#trAvaruNAq gavi#ShTiShu |
+rajA#Msi chiqtrA vi cha#ranti taqnyavo# diqva: sa#mrAjAq paya#sA na ukShatam || 5.063.05
+vAchaqM su mi#trAvaruNAqvirA#vatIM paqrjanya#shchiqtrAM va#datiq tviShI#matIm |
+aqbhrA va#sata maqrutaq: su mAqyayAq dyAM va#rShayatamaruqNAma#reqpasa#m || 5.063.06
+dharma#NA mitrAvaruNA vipashchitA vraqtA ra#kShetheq asu#rasya mAqyayA# |
+Ruqtenaq vishvaqM bhuva#naqM vi rA#jathaq: sUryaqmA dha#ttho diqvi chitryaqM ratha#m || 5.063.07
+
+varu#NaM vo riqshAda#samRuqchA miqtraM ha#vAmahe |
+pari# vraqjeva# bAqhvorja#gaqnvAMsAq sva#rNaram || 5.064.01
+tA bAqhavA# sucheqtunAq pra ya#ntamasmAq archa#te |
+shevaqM hi jAqrya#M vAqM vishvA#suq kShAsuq jogu#ve || 5.064.02
+yannUqnamaqshyAM gati#M miqtrasya# yAyAM paqthA |
+asya# priqyasyaq sharmaqNyahi#MsAnasya sashchire || 5.064.03
+yuqvAbhyA#M mitrAvaruNopaqmaM dhe#yAmRuqchA |
+yaddhaq kShaye# maqghonA#M stotR^IqNAM cha# spUqrdhase# || 5.064.04
+A no# mitra sudIqtibhiqrvaru#Nashcha saqdhasthaq A |
+sve kShaye# maqghonAqM sakhI#nAM cha vRuqdhase# || 5.064.05
+yuqvaM noq yeShu# varuNa kShaqtraM bRuqhachcha# bibhRuqtha: |
+uqru Noq vAja#sAtaye kRuqtaM rAqye svaqstaye# || 5.064.06
+uqchChantyA#M me yajaqtA deqvakSha#treq rusha#dgavi |
+suqtaM somaqM na haqstibhiqrA paqDbhirdhA#vataM narAq bibhra#tAvarchaqnAna#sam || 5.064.07
+
+yashchiqketaq sa suqkratu#rdevaqtrA sa bra#vItu na: |
+varu#Noq yasya# darshaqto miqtro vAq vana#teq gira#: || 5.065.01
+tA hi shreShTha#varchasAq rAjA#nA dIrghaqshrutta#mA |
+tA satpa#tI RutAqvRudha# RuqtAvA#nAq jane#jane || 5.065.02
+tA vA#miyAqno&va#seq pUrvAq upa# bruveq sachA# |
+svashvA#saq: su cheqtunAq vAjA#~M aqbhi pra dAqvane# || 5.065.03
+miqtro aqMhoshchiqdAduqru kShayA#ya gAqtuM va#nate |
+miqtrasyaq hi praqtUrva#ta: sumaqtirasti# vidhaqta: || 5.065.04
+vaqyaM miqtrasyAva#siq syAma# saqpratha#stame |
+aqneqhasaqstvota#ya: saqtrA varu#NasheShasa: || 5.065.05
+yuqvaM mi#treqmaM janaqM yata#thaq: saM cha# nayatha: |
+mA maqghonaq: pari# khyataqM mo aqsmAkaqmRuShI#NAM gopIqthe na# uruShyatam || 5.065.06
+
+A chi#kitAna suqkratU# deqvau ma#rta riqshAda#sA |
+varu#NAya Ruqtape#shase dadhIqta praya#se maqhe || 5.066.01
+tA hi kShaqtramavi#hrutaM saqmyaga#suqrya1q#mAshA#te |
+adha# vraqtevaq mAnu#ShaqM sva1q#rNa dhA#yi darshaqtam || 5.066.02
+tA vAqmeSheq rathA#nAmuqrvIM gavyU#timeShAm |
+rAqtaha#vyasya suShTuqtiM daqdhRukstomai#rmanAmahe || 5.066.03
+adhAq hi kAvyA# yuqvaM dakSha#sya pUqrbhira#dbhutA |
+ni keqtunAq janA#nAM chiqkethe# pUtadakShasA || 5.066.04
+tadRuqtaM pRu#thivi bRuqhachChra#vaeqSha RuShI#NAm |
+jraqyaqsAqnAvara#M pRuqthvati# kSharantiq yAma#bhi: || 5.066.05
+A yadvA#mIyachakShasAq mitra# vaqyaM cha# sUqraya#: |
+vyachi#ShThe bahuqpAyyeq yate#mahi svaqrAjye# || 5.066.06
+
+baLiqtthA de#va niShkRuqtamAdi#tyA yajaqtaM bRuqhat |
+varu#Naq mitrArya#maqnvarShi#ShThaM kShaqtramA#shAthe || 5.067.01
+A yadyoni#M hiraqNyayaqM varu#Naq mitraq sada#tha: |
+dhaqrtArA# charShaNIqnAM yaqntaM suqmnaM ri#shAdasA || 5.067.02
+vishveq hi viqshvave#dasoq varu#No miqtro a#ryaqmA |
+vraqtA paqdeva# sashchireq pAntiq martya#M riqSha: || 5.067.03
+te hi saqtyA Ru#taqspRusha# RuqtAvA#noq jane#jane |
+suqnIqthAsa#: suqdAna#voq&Mhoshchi#duruqchakra#ya: || 5.067.04
+ko nu vA#M miqtrAstu#toq varu#No vA taqnUnA#m |
+tatsu vAqmeSha#te maqtiratri#bhyaq eSha#te maqti: || 5.067.05
+
+pra vo# miqtrAya# gAyataq varu#NAya viqpA giqrA |
+mahi#kShatrAvRuqtaM bRuqhat || 5.068.01
+saqmrAjAq yA ghRuqtayo#nI miqtrashchoqbhA varu#Nashcha |
+deqvA deqveShu# prashaqstA || 5.068.02
+tA na#: shaktaqM pArthi#vasya maqho rAqyo diqvyasya# |
+mahi# vAM kShaqtraM deqveShu# || 5.068.03
+RuqtamRuqtenaq sapa#nteShiqraM dakSha#mAshAte |
+aqdruhA# deqvau va#rdhete || 5.068.04
+vRuqShTidyA#vA rIqtyA#peqShaspatIq dAnu#matyA: |
+bRuqhantaqM garta#mAshAte || 5.068.05
+
+trI ro#chaqnA va#ruNaq trI~Mruqta dyUntrINi# mitra dhArayathoq rajA#Msi |
+vAqvRuqdhAqnAvaqmati#M kShaqtriyaqsyAnu# vraqtaM rakSha#mANAvajuqryam || 5.069.01
+irA#vatIrvaruNa dheqnavo# vAqM madhu#madvAqM sindha#vo mitra duhre |
+traya#stasthurvRuShaqbhAsa#stisRuqNAM dhiqShaNA#nAM retoqdhA vi dyuqmanta#: || 5.069.02
+prAqtardeqvImadi#tiM johavImi maqdhyaMdi#naq udi#tAq sUrya#sya |
+rAqye mi#trAvaruNA saqrvatAqteLe# toqkAyaq tana#yAyaq shaM yo: || 5.069.03
+yA dhaqrtArAq raja#so rochaqnasyoqtAdiqtyA diqvyA pArthi#vasya |
+na vA#M deqvA aqmRutAq A mi#nanti vraqtAni# mitrAvaruNA dhruqvANi# || 5.069.04
+
+puqrUqruNA# chiqddhyastyavo# nUqnaM vA#M varuNa |
+mitraq vaMsi# vAM sumaqtim || 5.070.01
+tA vA#M saqmyaga#druhvAqNeSha#mashyAmaq dhAya#se |
+vaqyaM te ru#drA syAma || 5.070.02
+pAqtaM no# rudrA pAqyubhi#ruqta trA#yethAM sutrAqtrA |
+tuqryAmaq dasyU#ntaqnUbhi#: || 5.070.03
+mA kasyA#dbhutakratU yaqkShaM bhu#jemA taqnUbhi#: |
+mA sheSha#sAq mA tana#sA || 5.070.04
+
+A no# gantaM rishAdasAq varu#Naq mitra# baqrhaNA# |
+upeqmaM chAru#madhvaqram || 5.071.01
+vishva#syaq hi pra#chetasAq varu#Naq mitraq rAja#tha: |
+IqshAqnA pi#pyataqM dhiya#: || 5.071.02
+upa# na: suqtamA ga#taqM varu#Naq mitra# dAqshuSha#: |
+aqsya soma#sya pIqtaye# || 5.071.03
+
+A miqtre varu#Ne vaqyaM gIqrbhirju#humo atriqvat |
+ni baqrhiShi# sadataqM soma#pItaye || 5.072.01
+vraqtena# stho dhruqvakShe#mAq dharma#NA yAtaqyajja#nA |
+ni baqrhiShi# sadataqM soma#pItaye || 5.072.02
+miqtrashcha# noq varu#Nashcha juqShetA#M yaqj~jamiqShTaye# |
+ni baqrhiShi# sadatAqM soma#pItaye || 5.072.03
+
+yadaqdya stha: pa#rAqvatiq yada#rvAqvatya#shvinA |
+yadvA# puqrU pu#rubhujAq yadaqntari#kShaq A ga#tam || 5.073.01
+iqha tyA pu#ruqbhUta#mA puqrU daMsA#Msiq bibhra#tA |
+vaqraqsyA yAqmyadhri#gU huqve tuqviShTa#mA bhuqje || 5.073.02
+IqrmAnyadvapu#Sheq vapu#shchaqkraM ratha#sya yemathu: |
+paryaqnyA nAhu#ShA yuqgA maqhnA rajA#Msi dIyatha: || 5.073.03
+tadUq Shu vA#meqnA kRuqtaM vishvAq yadvAqmanuq ShTave# |
+nAnA# jAqtAva#reqpasAq samaqsme bandhuqmeya#thu: || 5.073.04
+A yadvA#M sUqryA rathaqM tiShTha#draghuqShyadaqM sadA# |
+pari# vAmaruqShA vayo# ghRuqNA va#ranta Aqtapa#: || 5.073.05
+yuqvoratri#shchiketatiq narA# suqmnenaq cheta#sA |
+ghaqrmaM yadvA#mareqpasaqM nAsa#tyAqsnA bhu#raqNyati# || 5.073.06
+uqgro vA#M kakuqho yaqyi: shRuqNve yAme#Shu saMtaqni: |
+yadvAqM daMso#bhirashviqnAtri#rnarAvaqvarta#ti || 5.073.07
+madhva# Uq Shu ma#dhUyuvAq rudrAq siSha#kti piqpyuShI# |
+yatsa#muqdrAtiq parSha#tha: paqkvA: pRukSho# bharanta vAm || 5.073.08
+saqtyamidvA u# ashvinA yuqvAmA#hurmayoqbhuvA# |
+tA yAma#nyAmaqhUta#mAq yAmaqnnA mRu#Laqyatta#mA || 5.073.09
+iqmA brahmA#Niq vardha#nAqshvibhyA#M santuq shaMta#mA |
+yA takShA#maq rathA#~M iqvAvo#chAma bRuqhannama#: || 5.073.10
+
+kUShTho# devAvashvinAqdyA diqvo ma#nAvasU |
+tachChra#vatho vRuShaNvasUq atri#rvAqmA vi#vAsati || 5.074.01
+kuhaq tyA kuhaq nu shruqtA diqvi deqvA nAsa#tyA |
+kasmiqnnA ya#tathoq janeq ko vA#M naqdInAqM sachA# || 5.074.02
+kaM yA#thaq: kaM ha# gachChathaq: kamachChA# yu~jjAtheq ratha#m |
+kasyaq brahmA#Ni raNyatho vaqyaM vA#mushmasIqShTaye# || 5.074.03
+pauqraM chiqddhyu#daqprutaqM paura# pauqrAyaq jinva#tha: |
+yadI#M gRubhIqtatA#taye siqMhami#va druqhaspaqde || 5.074.04
+pra chyavA#nAjjujuqruSho# vaqvrimatkaqM na mu#~jchatha: |
+yuvAq yadI# kRuqtha: punaqrA kAma#mRuNve vaqdhva#: || 5.074.05
+astiq hi vA#miqha stoqtA smasi# vAM saqMdRushi# shriqye |
+nU shruqtaM maq A ga#taqmavo#bhirvAjinIvasU || 5.074.06
+ko vA#maqdya pu#rUqNAmA va#vneq martyA#nAm |
+ko vipro# vipravAhasAq ko yaqj~jairvA#jinIvasU || 5.074.07
+A vAqM rathoq rathA#nAqM yeShTho# yAtvashvinA |
+puqrU chi#dasmaqyustiqra A#g~ggUqSho martyeqShvA || 5.074.08
+shamUq Shu vA#M madhUyuvAqsmAka#mastu charkRuqti: |
+aqrvAqchIqnA vi#chetasAq vibhi#: shyeqneva# dIyatam || 5.074.09
+ashvi#nAq yaddhaq karhi# chichChushrUqyAta#miqmaM hava#m |
+vasvI#rUq Shu vAqM bhuja#: pRuq~jchantiq su vAqM pRucha#: || 5.074.10
+
+prati# priqyata#maqM rathaqM vRuSha#NaM vasuqvAha#nam |
+stoqtA vA#mashvinAqvRuShiq stome#naq prati# bhUShatiq mAdhvIq mama# shrutaqM hava#m || 5.075.01
+aqtyAyA#tamashvinA tiqro vishvA# aqhaM sanA# |
+dasrAq hira#NyavartanIq suShu#mnAq sindhu#vAhasAq mAdhvIq mama# shrutaqM hava#m || 5.075.02
+A noq ratnA#niq bibhra#tAqvashvi#nAq gachCha#taM yuqvam |
+rudrAq hira#NyavartanI juShAqNA vA#jinIvasUq mAdhvIq mama# shrutaqM hava#m || 5.075.03
+suqShTubho# vAM vRuShaNvasUq ratheq vANIqchyAhi#tA |
+uqta vA#M kakuqho mRuqga: pRukSha#: kRuNoti vApuqSho mAdhvIq mama# shrutaqM hava#m || 5.075.04
+boqdhinma#nasA raqthye#ShiqrA ha#vanaqshrutA# |
+vibhiqshchyavA#namashvinAq ni yA#thoq adva#yAvinaqM mAdhvIq mama# shrutaqM hava#m || 5.075.05
+A vA#M narA manoqyujo&shvA#sa: pruShiqtapsa#va: |
+vayo# vahantu pIqtaye# saqha suqmnebhi#rashvinAq mAdhvIq mama# shrutaqM hava#m || 5.075.06
+ashvi#nAqveha ga#chChataqM nAsa#tyAq mA vi ve#natam |
+tiqrashchi#daryaqyA pari# vaqrtiryA#tamadAbhyAq mAdhvIq mama# shrutaqM hava#m || 5.075.07
+aqsminyaqj~je a#dAbhyA jariqtAra#M shubhaspatI |
+aqvaqsyuma#shvinA yuqvaM gRuqNantaqmupa# bhUShathoq mAdhvIq mama# shrutaqM hava#m || 5.075.08
+abhU#duqShA rusha#tpashuqrAgnira#dhAyyRuqtviya#: |
+ayo#ji vAM vRuShaNvasUq ratho# dasrAqvama#rtyoq mAdhvIq mama# shrutaqM hava#m || 5.075.09
+
+A bhA#tyaqgniruqShasAqmanI#kaqmudviprA#NAM devaqyA vAcho# asthu: |
+aqrvA~jchA# nUqnaM ra#thyeqha yA#taM pIpiqvAMsa#mashvinA ghaqrmamachCha# || 5.076.01
+na sa#MskRuqtaM pra mi#mItoq gamiqShThAnti# nUqnamaqshvinopa#stuteqha |
+divA#bhipiqtve&vaqsAga#miShThAq pratyava#rtiM dAqshuSheq shambha#viShThA || 5.076.02
+uqtA yA#taM saMgaqve prAqtarahno# maqdhyaMdi#naq udi#tAq sUrya#sya |
+divAq naktaqmava#sAq shaMta#menaq nedAnI#M pIqtiraqshvinA ta#tAna || 5.076.03
+iqdaM hi vA#M praqdiviq sthAnaqmoka# iqme gRuqhA a#shvineqdaM du#roqNam |
+A no# diqvo bRu#haqta: parva#tAqdAdbhyo yA#taqmiShaqmUrjaqM vaha#ntA || 5.076.04
+samaqshvinoqrava#sAq nUta#nena mayoqbhuvA# suqpraNI#tI gamema |
+A no# raqyiM va#hataqmota vIqrAnA vishvA#nyamRutAq saubha#gAni || 5.076.05
+
+prAqtaqryAvA#NA prathaqmA ya#jadhvaM puqrA gRudhrAqdara#ruSha: pibAta: |
+prAqtarhi yaqj~jamaqshvinA# daqdhAteq pra sha#Msanti kaqvaya#: pUrvaqbhAja#: || 5.077.01
+prAqtarya#jadhvamaqshvinA# hinotaq na sAqyama#sti devaqyA aju#ShTam |
+uqtAnyo aqsmadya#jateq vi chAvaq: pUrva#:pUrvoq yaja#mAnoq vanI#yAn || 5.077.02
+hira#Nyatvaqg~gmadhu#varNo ghRuqtasnuq: pRukShoq vahaqnnA ratho# vartate vAm |
+mano#javA ashvinAq vAta#raMhAq yenA#tiyAqtho du#riqtAniq vishvA# || 5.077.03
+yo bhUyi#ShThaqM nAsa#tyAbhyAM viqveShaq chani#ShThaM piqtvo rara#te vibhAqge |
+sa toqkama#sya pIparaqchChamI#bhiqranU#rdhvabhAsaq: sadaqmittu#turyAt || 5.077.04
+samaqshvinoqrava#sAq nUta#nena mayoqbhuvA# suqpraNI#tI gamema |
+A no# raqyiM va#hataqmota vIqrAnA vishvA#nyamRutAq saubha#gAni || 5.077.05
+
+ashvi#nAqveha ga#chChataqM nAsa#tyAq mA vi ve#natam |
+haqMsAvi#va patataqmA suqtA~M upa# || 5.078.01
+ashvi#nA hariqNAvi#va gauqrAviqvAnuq yava#sam |
+haqMsAvi#va patataqmA suqtA~M upa# || 5.078.02
+ashvi#nA vAjinIvasU juqShethA#M yaqj~jamiqShTaye# |
+haqMsAvi#va patataqmA suqtA~M upa# || 5.078.03
+atriqryadvA#mavaqroha#nnRuqbIsaqmajo#havIqnnAdha#mAnevaq yoShA# |
+shyeqnasya# chiqjjava#sAq nUta#neqnAga#chChatamashvinAq shaMta#mena || 5.078.04
+vi ji#hIShva vanaspateq yoniq: sUShya#ntyA iva |
+shruqtaM me# ashvinAq hava#M saqptava#dhriM cha mu~jchatam || 5.078.05
+bhIqtAyaq nAdha#mAnAyaq RuSha#ye saqptava#dhraye |
+mAqyAbhi#rashvinA yuqvaM vRuqkShaM saM chaq vi chA#chatha: || 5.078.06
+yathAq vAta#: puShkaqriNI#M samiqg~ggaya#ti saqrvata#: |
+eqvA teq garbha# ejatu niqraituq dasha#mAsya: || 5.078.07
+yathAq vAtoq yathAq vanaqM yathA# samuqdra eja#ti |
+eqvA tvaM da#shamAsya saqhAve#hi jaqrAyu#NA || 5.078.08
+dashaq mAsA#~jChashayAqna: ku#mAqro adhi# mAqtari# |
+niqraitu# jIqvo akSha#to jIqvo jIva#ntyAq adhi# || 5.078.09
+
+maqhe no# aqdya bo#dhaqyoSho# rAqye diqvitma#tI |
+yathA# chinnoq abo#dhaya: saqtyashra#vasi vAqyye sujA#teq ashva#sUnRute || 5.079.01
+yA su#nIqthe shau#chadraqthe vyauchCho# duhitardiva: |
+sA vyu#chChaq sahI#yasi saqtyashra#vasi vAqyye sujA#teq ashva#sUnRute || 5.079.02
+sA no# aqdyAbhaqradva#suqrvyu#chChA duhitardiva: |
+yo vyauchChaq: sahI#yasi saqtyashra#vasi vAqyye sujA#teq ashva#sUnRute || 5.079.03
+aqbhi ye tvA# vibhAvariq stomai#rgRuqNantiq vahna#ya: |
+maqghairma#ghoni suqshriyoq dAma#nvanta: surAqtayaq: sujA#teq ashva#sUnRute || 5.079.04
+yachchiqddhi te# gaqNA iqme Chaqdaya#nti maqghatta#ye |
+pari# chiqdvaShTa#yo dadhuqrdada#toq rAdhoq ahra#yaqM sujA#teq ashva#sUnRute || 5.079.05
+aiShu# dhA vIqravaqdyashaq uSho# maghoni sUqriShu# |
+ye noq rAdhAqMsyahra#yA maqghavA#noq arA#sataq sujA#teq ashva#sUnRute || 5.079.06
+tebhyo# dyuqmnaM bRuqhadyashaq uSho# maghoqnyA va#ha |
+ye noq rAdhAqMsyashvyA# gaqvyA bhaja#nta sUqrayaq: sujA#teq ashva#sUnRute || 5.079.07
+uqta noq goma#tIqriShaq A va#hA duhitardiva: |
+sAqkaM sUrya#sya raqshmibhi#: shuqkrai: shocha#dbhiraqrchibhiq: sujA#teq ashva#sUnRute || 5.079.08
+vyu#chChA duhitardivoq mA chiqraM ta#nuthAq apa#: |
+nettvA# steqnaM yathA# riqpuM tapA#tiq sUro# aqrchiShAq sujA#teq ashva#sUnRute || 5.079.09
+eqtAvaqdvedu#ShaqstvaM bhUyo# vAq dAtu#marhasi |
+yA stoqtRubhyo# vibhAvaryuqchChantIq na praqmIya#seq sujA#teq ashva#sUnRute || 5.079.10
+
+dyuqtadyA#mAnaM bRuhaqtImRuqtena# RuqtAva#rImaruqNapsu#M vibhAqtIm |
+deqvImuqShasaqM sva#rAqvaha#ntIqM pratiq viprA#so maqtibhi#rjarante || 5.080.01
+eqShA jana#M darshaqtA boqdhaya#ntI suqgAnpaqtha: kRu#NvaqtI yAqtyagre# |
+bRuqhaqdraqthA bRu#haqtI vi#shvamiqnvoShA jyoti#ryachChaqtyagreq ahnA#m || 5.080.02
+eqShA gobhi#raruqNebhi#ryujAqnAsre#dhantI raqyimaprA#yu chakre |
+paqtho rada#ntI suviqtAya# deqvI pu#ruShTuqtA viqshvavA#rAq vi bhA#ti || 5.080.03
+eqShA vye#nI bhavati dviqbarhA# AviShkRuNvAqnA taqnva#M puqrastA#t |
+Ruqtasyaq panthAqmanve#ti sAqdhu pra#jAnaqtIvaq na disho# minAti || 5.080.04
+eqShA shuqbhrA na taqnvo# vidAqnordhveva# snAqtI dRuqshaye# no asthAt |
+apaq dveShoq bAdha#mAnAq tamA#MsyuqShA diqvo du#hiqtA jyotiqShAgA#t || 5.080.05
+eqShA pra#tIqchI du#hiqtA diqvo nR^InyoShe#va bhaqdrA ni ri#NIteq apsa#: |
+vyUqrNvaqtI dAqshuSheq vAryA#Niq punaqrjyoti#ryuvaqti: pUqrvathA#ka: || 5.080.06
+
+yuq~jjateq mana# uqta yu#~jjateq dhiyoq viprAq vipra#sya bRuhaqto vi#paqshchita#: |
+vi hotrA# dadhe vayunAqvidekaq inmaqhI deqvasya# saviqtu: pari#ShTuti: || 5.081.01
+vishvA# rUqpANiq prati# mu~jchate kaqvi: prAsA#vIdbhaqdraM dviqpadeq chatu#Shpade |
+vi nAka#makhyatsaviqtA vareqNyo&nu# praqyANa#muqShasoq vi rA#jati || 5.081.02
+yasya# praqyANaqmanvaqnya idyaqyurdeqvA deqvasya# mahiqmAnaqmoja#sA |
+ya: pArthi#vAni vimaqme sa eta#shoq rajA#Msi deqva: sa#viqtA ma#hitvaqnA || 5.081.03
+uqta yA#si savitaqstrINi# rochaqnota sUrya#sya raqshmibhiq: samu#chyasi |
+uqta rAtrI#mubhaqyataq: parI#yasa uqta miqtro bha#vasi devaq dharma#bhi: || 5.081.04
+uqteshi#She prasaqvasyaq tvamekaq iduqta pUqShA bha#vasi devaq yAma#bhi: |
+uqtedaM vishvaqM bhuva#naqM vi rA#jasi shyAqvAshva#ste savitaq stoma#mAnashe || 5.081.05
+
+tatsa#viqturvRu#NImahe vaqyaM deqvasyaq bhoja#nam |
+shreShTha#M sarvaqdhAta#maqM turaqM bhaga#sya dhImahi || 5.082.01
+asyaq hi svaya#shastaraM saviqtu: kachchaqna priqyam |
+na miqnanti# svaqrAjya#m || 5.082.02
+sa hi ratnA#ni dAqshuShe# suqvAti# saviqtA bhaga#: |
+taM bhAqgaM chiqtramI#mahe || 5.082.03
+aqdyA no# deva savita: praqjAva#tsAvIq: saubha#gam |
+parA# duqShvapnya#M suva || 5.082.04
+vishvA#ni deva savitarduriqtAniq parA# suva |
+yadbhaqdraM tannaq A su#va || 5.082.05
+anA#gasoq adi#taye deqvasya# saviqtu: saqve |
+vishvA# vAqmAni# dhImahi || 5.082.06
+A viqshvade#vaqM satpa#tiM sUqktairaqdyA vRu#NImahe |
+saqtyasa#vaM saviqtAra#m || 5.082.07
+ya iqme uqbhe aha#nI puqra etyapra#yuchChan |
+svAqdhIrdeqva: sa#viqtA || 5.082.08
+ya iqmA vishvA# jAqtAnyA#shrAqvaya#tiq shloke#na |
+pra cha# suqvAti# saviqtA || 5.082.09
+
+achChA# vada taqvasa#M gIqrbhirAqbhi stuqhi paqrjanyaqM namaqsA vi#vAsa |
+kani#kradadvRuShaqbho jIqradA#nUq reto# dadhAqtyoSha#dhIShuq garbha#m || 5.083.01
+vi vRuqkShAnha#ntyuqta ha#nti raqkShasoq vishva#M bibhAyaq bhuva#naM maqhAva#dhAt |
+uqtAnA#gA IShateq vRuShNyA#vatoq yatpaqrjanya# staqnayaqnhanti# duqShkRuta#: || 5.083.02
+raqthIvaq kashaqyAshvA#~M abhikShiqpannAqvirdUqtAnkRu#Nute vaqrShyAq~M3q# aha# |
+dUqrAtsiqMhasya# staqnathAq udI#rateq yatpaqrjanya#: kRuNuqte vaqrShyaM1q# nabha#: || 5.083.03
+pra vAtAq vAnti# paqtaya#nti viqdyutaq udoSha#dhIqrjiha#teq pinva#teq sva#: |
+irAq vishva#smaiq bhuva#nAya jAyateq yatpaqrjanya#: pRuthiqvIM retaqsAva#ti || 5.083.04
+yasya# vraqte pRu#thiqvI nanna#mItiq yasya# vraqte shaqphavaqjjarbhu#rIti |
+yasya# vraqta oSha#dhIrviqshvarU#pAq: sa na#: parjanyaq mahiq sharma# yachCha || 5.083.05
+diqvo no# vRuqShTiM ma#ruto rarIdhvaqM pra pi#nvataq vRuShNoq ashva#syaq dhArA#: |
+aqrvAg~geqtena# stanayiqtnunehyaqpo ni#Shiq~jchannasu#ra: piqtA na#: || 5.083.06
+aqbhi kra#nda staqnayaq garbhaqmA dhA# udaqnvatAq pari# dIyAq rathe#na |
+dRutiqM su ka#rShaq viShi#taqM nya#~jchaM saqmA bha#vantUqdvato# nipAqdA: || 5.083.07
+maqhAntaqM koshaqmuda#chAq ni Shi#~jchaq syanda#ntAM kuqlyA viShi#tA: puqrastA#t |
+ghRuqtenaq dyAvA#pRuthiqvI vyu#ndhi suprapAqNaM bha#vatvaqghnyAbhya#: || 5.083.08
+yatpa#rjanyaq kani#kradatstaqnayaqnhaMsi# duqShkRuta#: |
+pratIqdaM vishva#M modateq yatkiM cha# pRuthiqvyAmadhi# || 5.083.09
+ava#rShIrvaqrShamuduq ShU gRu#bhAqyAkaqrdhanvAqnyatye#taqvA u# |
+ajI#janaq oSha#dhIqrbhoja#nAyaq kamuqta praqjAbhyo#&vido manIqShAm || 5.083.10
+
+baLiqtthA parva#tAnAM khiqdraM bi#bharShi pRuthivi |
+pra yA bhUmi#M pravatvati maqhnA jiqnoShi# mahini || 5.084.01
+stomA#sastvA vichAriNiq prati# ShTobhantyaqktubhi#: |
+pra yA vAjaqM na heSha#ntaM peqrumasya#syarjuni || 5.084.02
+dRuqLhA chiqdyA vanaqspatI#nkShmaqyA dardhaqrShyoja#sA |
+yatte# aqbhrasya# viqdyuto# diqvo varSha#nti vRuqShTaya#: || 5.084.03
+
+pra saqmrAje# bRuqhada#rchA gabhIqraM brahma# priqyaM varu#NAya shruqtAya# |
+vi yo jaqghAna# shamiqtevaq charmo#paqstire# pRuthiqvIM sUryA#ya || 5.085.01
+vane#Shuq vya1q#ntari#kShaM tatAnaq vAjaqmarva#tsuq paya# uqsriyA#su |
+hRuqtsu kratuqM varu#No aqpsva1q#gniM diqvi sUrya#madadhAqtsomaqmadrau# || 5.085.02
+nIqchIna#bAraqM varu#Naq: kava#ndhaqM pra sa#sarjaq roda#sI aqntari#kSham |
+tenaq vishva#syaq bhuva#nasyaq rAjAq yavaqM na vRuqShTirvyu#nattiq bhUma# || 5.085.03
+uqnattiq bhUmi#M pRuthiqvImuqta dyAM yaqdA duqgdhaM varu#Noq vaShTyAdit |
+samaqbhreNa# vasataq parva#tAsastaviShIqyanta#: shrathayanta vIqrA: || 5.085.04
+iqmAmUq ShvA#suqrasya# shruqtasya# maqhIM mAqyAM varu#Nasyaq pra vo#cham |
+mAne#neva tasthiqvA~M aqntari#kSheq vi yo maqme pRu#thiqvIM sUrye#Na || 5.085.05
+iqmAmUq nu kaqvita#masya mAqyAM maqhIM deqvasyaq nakiqrA da#dharSha |
+ekaqM yaduqdnA na pRuqNantyenI#rAsiq~jchantI#raqvana#ya: samuqdram || 5.085.06
+aqryaqmya#M varuNa miqtrya#M vAq sakhA#yaM vAq sadaqmidbhrAta#raM vA |
+veqshaM vAq nitya#M varuqNAra#NaM vAq yatsIqmAga#shchakRuqmA shiqshrathaqstat || 5.085.07
+kiqtaqvAsoq yadri#riqpurna dIqvi yadvA# ghA saqtyamuqta yanna viqdma |
+sarvAq tA vi Shya# shithiqreva# deqvAdhA# te syAma varuNa priqyAsa#: || 5.085.08
+
+indrA#gnIq yamava#tha uqbhA vAje#Shuq martya#m |
+dRuqLhA chiqtsa pra bhe#dati dyuqmnA vANI#riva triqta: || 5.086.01
+yA pRuta#nAsu duqShTarAq yA vAje#Shu shraqvAyyA# |
+yA pa~jcha# charShaqNIraqbhI#ndrAqgnI tA ha#vAmahe || 5.086.02
+tayoqridama#vaqchChava#stiqgmA diqdyunmaqghono#: |
+pratiq druNAq gabha#styoqrgavA#M vRutraqghna eSha#te || 5.086.03
+tA vAqmeSheq rathA#nAmindrAqgnI ha#vAmahe |
+patI# tuqrasyaq rAdha#so viqdvAMsAq girva#NastamA || 5.086.04
+tA vRuqdhantAqvanuq dyUnmartA#ya deqvAvaqdabhA# |
+arha#ntA chitpuqro daqdhe&Mshe#va deqvAvarva#te || 5.086.05
+eqvendrAqgnibhyAqmahA#vi haqvyaM shUqShya#M ghRuqtaM na pUqtamadri#bhi: |
+tA sUqriShuq shravo# bRuqhadraqyiM gRuqNatsu# didhRutaqmiSha#M gRuqNatsu# didhRutam || 5.086.06
+
+pra vo# maqhe maqtayo# yantuq viShNa#ve maqrutva#te giriqjA e#vaqyAma#rut |
+pra shardhA#yaq praya#jyave sukhAqdaye# taqvase# bhaqndadi#ShTayeq dhuni#vratAyaq shava#se || 5.087.01
+pra ye jAqtA ma#hiqnA ye chaq nu svaqyaM pra viqdmanA# bruqvata# evaqyAma#rut |
+kratvAq tadvo# marutoq nAdhRuSheq shavo# dAqnA maqhnA tade#ShAqmadhRu#ShTAsoq nAdra#ya: || 5.087.02
+pra ye diqvo bRu#haqta: shRu#Nviqre giqrA suqshukvA#na: suqbhva# evaqyAma#rut |
+na yeShAqmirI# saqdhasthaq IShTaq A~M aqgnayoq na svavi#dyutaq: pra syaqndrAsoq dhunI#nAm || 5.087.03
+sa cha#krame mahaqto niru#rukraqma: sa#mAqnasmAqtsada#sa evaqyAma#rut |
+yaqdAyu#ktaq tmanAq svAdadhiq ShNubhiqrviShpa#rdhasoq vima#hasoq jigA#tiq shevRu#dhoq nRubhi#: || 5.087.04
+svaqno na vo&ma#vAnrejayaqdvRuShA# tveqSho yaqyista#viqSha e#vaqyAma#rut |
+yenAq saha#nta Ruq~jjataq svaro#chiShaq sthAra#shmAno hiraqNyayA#: svAyuqdhAsa# iqShmiNa#: || 5.087.05
+aqpAqro vo# mahiqmA vRu#ddhashavasastveqShaM shavo#&vatvevaqyAma#rut |
+sthAtA#roq hi prasi#tau saqMdRushiq sthanaq te na# uruShyatA niqda: shu#shuqkvAMsoq nAgnaya#: || 5.087.06
+te ruqdrAsaq: suma#khA aqgnayo# yathA tuvidyuqmnA a#vantvevaqyAma#rut |
+dIqrghaM pRuqthu pa#pratheq sadmaq pArthi#vaqM yeShAqmajmeqShvA maqha: shardhAqMsyadbhu#tainasAm || 5.087.07
+aqdveqSho no# maruto gAqtumeta#naq shrotAq hava#M jariqture#vaqyAma#rut |
+viShNo#rmaqha: sa#manyavo yuyotanaq smadraqthyoq3q# na daqMsanApaq dveShA#Msi sanuqta: || 5.087.08
+gantA# no yaqj~jaM ya#j~jiyA: suqshamiq shrotAq hava#maraqkSha e#vaqyAma#rut |
+jyeShThA#soq na parva#tAsoq vyo#mani yUqyaM tasya# prachetasaq: syAta# duqrdharta#vo niqda: || 5.087.09
+
+
+##
+
+Special mention : Initial processing and help by Avinash and Shashi Sathaye, 
+Avinash Chopde, Shree Devi Kumar, Sunder :attangadi, John Gardner.
+Reprocessed from Original in final form by Detlef Eichler with additional corrections.
+See Detlef's site http://detlefeichler.googlepages.com/Rigveda.htm
+for other details and formats.
+
+The text is shown with accents (Anudattas, dependent Svaritas,
+and independent Svaritas including Kampas). Words are connected (agnimILe). 
+Ch is doubled as in gachChati according to the rules of Rigveda-Pratishakhya. 
+At the end of a word m is replaced by Anusvara M if the initial letter of the
+following word is a labial stop consonant (p, ph, b, bh, m).
+
+Source : The Aufrecht/van Nooten/:olland (Samhita) version
+of the Rigveda (http://www.people.fas.harvard.edu/~witzel/onlineRV.htm).
+In this text accented vowels have Udatta or 'independent Svarita' markers.
+Kampas are not shown. Words are separated (agnim ILe). 
+Ch is not doubled as in gaChati. At the end of a word we find m before
+a following labial stop consonant (p, ph, b, bh, m).
+
+Send corrections to   : DetlefEichler at gmx.net, sanskrit@cheerful.com
+
+The text is to be used for personal studies and research only.
+Any use for commercial purpose is prohibited as a `gentleman's' agreement.
+
+\medskip\hrule\obeylines
+\medskip
+{\rm Please send corrections to sanskrit@cheerful.com}
+{\rm Last updated \today}
+\end{document}
